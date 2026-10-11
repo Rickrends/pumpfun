@@ -1,0 +1,38 @@
+name: Pump.fun Scan
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes -- GitHub's documented floor; actual runs can lag further under load
+  workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab, useful for testing
+
+permissions:
+  contents: write   # needed so the workflow can commit the updated seen_tokens.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests websockets
+
+      - name: Run scan
+        env:
+          MOBULA_API_KEY: ${{ secrets.MOBULA_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MIN_QUALITY_WALLETS: "1"
+        run: python alert_bot_github.py
+
+      - name: Save candidate state
+        run: |
+          git config user.name "pumpfun-scan-bot"
+          git config user.email "actions@github.com"
+          git add candidates.json
+          git diff --staged --quiet || git commit -m "Update candidates [skip ci]"
+          git push
