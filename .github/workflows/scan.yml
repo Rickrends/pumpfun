@@ -40,4 +40,5 @@ jobs:
           git add candidates.json
           git diff --staged --quiet && exit 0
           git commit -m "Update candidates [skip ci]"
-          git push || (git pull --rebase origin main && git push)
+          git push || (git pull --rebase origin main && git push) 
+
