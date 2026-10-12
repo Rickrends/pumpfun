@@ -1,39 +1,4 @@
 {
-  "3dT6s4kz4QvaNr21jjLBYX4JJgKk63mRSEkreTHBpump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Claude's Constitution",
-    "checked": true
-  },
-  "CoXdi1yms3SbEFzjTXikszknxNC9Liw9Er34G3uUDz4h": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Asaduddin Owaisi",
-    "checked": true
-  },
-  "qKqXh8dYkdNFN7b1X7VQDp9cA7XCncEwGspUMb5pump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Ittiam Systems",
-    "checked": true
-  },
-  "AEvBajaFirRhQMRjhY1usupB8ELEpSJDETYXrHPopump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Smoking Claude",
-    "checked": true
-  },
-  "9szg35u4BHpMcbATNmFDgaN4GsFkAe3pmTuNP21ypump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Soljack",
-    "checked": true
-  },
-  "N2m2DC65sv1Vhnx2k4ZuDqPhkfRmQDsbxkGukUMpump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "7chan420",
-    "checked": true
-  },
-  "H9fxJEyKnnBhXYEZErnhaWfLcyacTEAWVhnQ1nz4pump": {
-    "created_at": "2026-10-12T03:55:15.933687+00:00",
-    "name": "Canopy",
-    "checked": true
-  },
   "AcbhbYXcPBjpnAXjCSFibESVXDWmx8rn51fwjDP2pump": {
     "created_at": "2026-10-12T04:00:19.155063+00:00",
     "name": "Frog",
@@ -1792,22 +1757,22 @@
   "8aovRMysbbBxbNU1EbEdNyn3LS8PYTxaH9twuLuXpump": {
     "created_at": "2026-10-12T06:30:15.636258+00:00",
     "name": "Iridius",
-    "checked": false
+    "checked": true
   },
   "jS2DfqHk3HzDoUhMtnwq7nvNdZ7KDYLFSHDK81Wpump": {
     "created_at": "2026-10-12T06:30:15.636258+00:00",
     "name": "Fuck You Cat",
-    "checked": false
+    "checked": true
   },
   "7AHdofMvbPsKw4eAvybzAzycHZA9wtRW4BuSxw8mmNYd": {
     "created_at": "2026-10-12T06:30:15.636258+00:00",
     "name": "Drone",
-    "checked": false
+    "checked": true
   },
   "BH8iAx4cHRKeK4wnZEhKee2u7uuj3AraKvKu6xLpump": {
     "created_at": "2026-10-12T06:30:15.636258+00:00",
     "name": "A",
-    "checked": false
+    "checked": true
   },
   "HARVprAXNhBbNhpWEK7jJkuGWN6Cm27BUKwtvbdSpump": {
     "created_at": "2026-10-12T06:35:15.138206+00:00",
@@ -2027,6 +1992,36 @@
   "Gd2msf1RcKQkR4JE9zDpgjLw4W9ZkM8XAVpMh41Y67ke": {
     "created_at": "2026-10-12T06:50:13.207864+00:00",
     "name": "AI",
+    "checked": false
+  },
+  "7fnfyt8CRBprdLnwo8tXnGJg72emXx4RP9FgYWtLpump": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "Mistral AI",
+    "checked": false
+  },
+  "3BGX11zFYrpzd9JhSntBaSeTjoui2rtsAAYRx3D4pump": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "infinigit",
+    "checked": false
+  },
+  "3kk3LvKocWjNtRMMbZgVcdCTo2U8gCuYwKXL9HtApump": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "BP26 Coolaid",
+    "checked": false
+  },
+  "35sdD2R3fTU9umhmiogoEoRTuvJDme1ZBckYRdTSpump": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "Kentucky Fried Cat",
+    "checked": false
+  },
+  "9hQjWtXRtQ8Ni74RR2wWJZv8a9Y7MM4crjfsYyJhn4zM": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "Kentucky Fried Cat",
+    "checked": false
+  },
+  "3hDe2LF4srXMtSqCZFXyZkL8YdifNp3pCd4umPCknbwD": {
+    "created_at": "2026-10-12T06:55:13.686561+00:00",
+    "name": "slopcannon",
     "checked": false
   }
 }
