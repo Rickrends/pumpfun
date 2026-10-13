@@ -1,29 +1,4 @@
 {
-  "D7ewKHHVmHH7ejQWDTuFB6KYGSeXLLSRFFPWr7zrCzyp": {
-    "created_at": "2026-10-13T06:10:14.762174+00:00",
-    "name": "Prime Zen",
-    "checked": true
-  },
-  "DEHJusMG1AjAAJYtBKVN5NaWeFGaHLW4UBQbrpsZpump": {
-    "created_at": "2026-10-13T06:10:14.762174+00:00",
-    "name": "Pump",
-    "checked": true
-  },
-  "BNgUohWZMVn8N2N6c2qNmuDkaWBrhDprmvheSqpcpump": {
-    "created_at": "2026-10-13T06:10:14.762174+00:00",
-    "name": "Attention Cat",
-    "checked": true
-  },
-  "Gtdpgqh5uf44UU6hz1qXKe88E9otaetrMXSJbdA4uL6S": {
-    "created_at": "2026-10-13T06:10:14.762174+00:00",
-    "name": "Zebra Elephant Crocodile",
-    "checked": true
-  },
-  "5GpKAkfxX1G99ngmSsA5xGdNASBQqwdFMooQ91t8XtQd": {
-    "created_at": "2026-10-13T06:10:14.762174+00:00",
-    "name": "Zebra Elephant Crocodile",
-    "checked": true
-  },
   "7u3Ss2k863YrqSVa28HcpfSMePM7wmXPvtytRSpGfgod": {
     "created_at": "2026-10-13T06:15:15.234004+00:00",
     "name": "stamppad",
@@ -1217,37 +1192,37 @@
   "9UdKbSgSbZXmXSWMdzRXD7xZKbkXKDfXug1ysu2bpump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "Internet Super Markets",
-    "checked": false
+    "checked": true
   },
   "4MU7yZqf17KSHUN1HD1fUMAfXtb65c6oUmtM2wqJpump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "justice for realist",
-    "checked": false
+    "checked": true
   },
   "9j2d6dh5vBj5CGqWCEwXr7N3bwuWFazdz5rkhLqjpump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "zapp",
-    "checked": false
+    "checked": true
   },
   "CK2o3fyNK7f86d1XfL85nUJeu9nhyjakLEu71zQ2pump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "67",
-    "checked": false
+    "checked": true
   },
   "GzFYRD1yr8RifEipdbZ8RMcNT6o6GwcuZDZ69JdUpump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "MEV Agent",
-    "checked": false
+    "checked": true
   },
   "3Vug1Rf9nMtuoL43Mso5DiiT3pYtZFZmszd6RyiTpump": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "PumpWrench",
-    "checked": false
+    "checked": true
   },
   "DuzpMKP6ErXc6CDnFKziAspYB7o7L5ZfUDWJowynWGt7": {
     "created_at": "2026-10-13T08:45:18.272120+00:00",
     "name": "HODL",
-    "checked": false
+    "checked": true
   },
   "FDPvUuHtZXMgmyWEhcstoWc36mhE2xLry79Zts9Spump": {
     "created_at": "2026-10-13T08:50:17.265664+00:00",
@@ -1437,6 +1412,31 @@
   "6ZfJFjJQiz7AuqzRanV6DYjGR8mSoa3w7SY1jGv3pump": {
     "created_at": "2026-10-13T09:05:11.929997+00:00",
     "name": "Super Dolphin",
+    "checked": false
+  },
+  "9GQGDf4ZeqEc7FrczbmXxsyiav2KT5JW3ChU5amVpump": {
+    "created_at": "2026-10-13T09:10:16.849469+00:00",
+    "name": "kinu",
+    "checked": false
+  },
+  "5Ln39yMXX1WxcPtsc9GKvh7vpKk9v94WTL77A8qjpump": {
+    "created_at": "2026-10-13T09:10:16.849469+00:00",
+    "name": "\u30a6\u30a9\u30b8\u30e3\u30c3\u30af",
+    "checked": false
+  },
+  "FJFrbRJ8kcYKPcQShTPWGrQwYK5rjeZ96BYkPo5Rpump": {
+    "created_at": "2026-10-13T09:10:16.849469+00:00",
+    "name": "si.gov",
+    "checked": false
+  },
+  "CmL14BsYmDntax4VZCzgPp2kxRuSBMs2hH8h3b8Zpump": {
+    "created_at": "2026-10-13T09:10:16.849469+00:00",
+    "name": "Veil",
+    "checked": false
+  },
+  "HDmnhhkDDqiHByrAyvRp1HYa3ANScs1e5yD2W1p4pump": {
+    "created_at": "2026-10-13T09:10:16.849469+00:00",
+    "name": "The $1000 Game",
     "checked": false
   }
 }
