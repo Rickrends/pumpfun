@@ -1,69 +1,4 @@
 {
-  "9JDywUWF2c4tUXYeq1dNSL6shmpQF17rBXnb7gQHworm": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "a worm made of coins",
-    "checked": true
-  },
-  "6tKq2GK3D1SWB7mDNWYWoCtwr95EJYszvWGExqgjKfK": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "chick",
-    "checked": true
-  },
-  "7WQ57dRZ2C54tQbBASqaLx1sua29ajNj1PbLmVMVworm": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "odd spool",
-    "checked": true
-  },
-  "6r1nwt9jCVNwfXXP77nmyxdVoi98tA96EiDNiEwKpump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "stop being naughty",
-    "checked": true
-  },
-  "DUd4eJFTJua6NkEWHC1LiTPJc9xTrznfmZ23NWW5QUuh": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "stop being naughty",
-    "checked": true
-  },
-  "5zYmYhUKGBKbS4GJY3wuDHcJaAFDWJBdAmRgJDgSpump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "wrong coin at 100k?",
-    "checked": true
-  },
-  "5S7TQuqK51pAouh8eFdYCQTpamho5d4RBeAfZZYkpump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "wrong coin at 100k?",
-    "checked": true
-  },
-  "3qW6okx9j9Krhji2zArhCP663EbQ5NEbEgFkb4G9pump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "wrong coin at 100k?",
-    "checked": true
-  },
-  "GcGbr1u3btic74LfFAvf4Rs991SmVsz9BtcRhE4mpump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "Immortal Jellyfish Protocol",
-    "checked": true
-  },
-  "2oQ3TMYVBjk95rU4EKmG2rgr1FuZs3DmiK5j6QF7pump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "tunnels.cash - privacy first",
-    "checked": true
-  },
-  "6Njk8pvksUpU4RMq2SeUK2QM8CgEA2fxjSTfG6p3pump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "Bob stole all your crypto",
-    "checked": true
-  },
-  "Y5AW42YoGR2tWKmSmKjdLyVvttwu8r54ea1v6KSpump": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "American Rewards Fund",
-    "checked": true
-  },
-  "4SKmNcPpJNYKPHmeqwEdG663X8GxV9Dtan9oRmvSFLEX": {
-    "created_at": "2026-10-14T03:20:15.401610+00:00",
-    "name": "Space Pepe",
-    "checked": true
-  },
   "GkqGzmMa6HN2LQoTLDsXF3iekwz8GxiqGNRjBc8spump": {
     "created_at": "2026-10-14T03:25:13.205955+00:00",
     "name": "ALTAI TIGER CHARITY IS AT 30K?",
@@ -1507,6 +1442,36 @@
   "4p9n81dFF9jMRUvTFh6zie6QhsW5jTsSNA2tZN62wKwj": {
     "created_at": "2026-10-14T06:15:14.312607+00:00",
     "name": "Meme TV",
+    "checked": false
+  },
+  "FAuyqTDykye8JpKJcnm4QKMkMFih1MWt26vAdKXfpump": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "Chaos AI Companion",
+    "checked": false
+  },
+  "4JKQfDDjZrAXLAozRmeWNmtGPA2eVEKXvCq7Djpnwhbd": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "GrokSlop",
+    "checked": false
+  },
+  "C9tKXFajUtZf76xTzLjZD2ucR8u7vq47noniDUhSpump": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "Slopcore",
+    "checked": false
+  },
+  "Dp6nhZYfefpXLLdqWuCcDLDxZUuAvWHJ8SmgR3ZXpump": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "Claudia Pepe",
+    "checked": false
+  },
+  "FRmWqEUMoAkJ48WwXbTgH6k415BsbRMpdmAqHwVDkrey": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "Trends App",
+    "checked": false
+  },
+  "FcK8hxXTUdERjwDUiPCAeueNfTYRzYJpbzknZqb5pKWK": {
+    "created_at": "2026-10-14T06:20:15.229360+00:00",
+    "name": "Grok Slopcore",
     "checked": false
   }
 }
