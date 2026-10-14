@@ -1,29 +1,4 @@
 {
-  "EorxFyq4J53FbyLeM3c88bJgZcNdNrjuZ1EfM5xipump": {
-    "created_at": "2026-10-14T20:35:12.897900+00:00",
-    "name": "Internet Terminal",
-    "checked": true
-  },
-  "23Fq53MXMuaVtcpTBPA9CEyVwoLrAWkYYTBUejiQpump": {
-    "created_at": "2026-10-14T20:35:12.897900+00:00",
-    "name": "FIX6900",
-    "checked": true
-  },
-  "HFxQvPvbef3FP9gcKGJ3ys2Vq92AeFagBQWhriLppump": {
-    "created_at": "2026-10-14T20:35:12.897900+00:00",
-    "name": "Hatch Cat",
-    "checked": true
-  },
-  "7Qc852E9o8m6CwBDMDZDwiRJsuA56oRyFFrCZUv67kjz": {
-    "created_at": "2026-10-14T20:35:12.897900+00:00",
-    "name": "Trezor Safe 3",
-    "checked": true
-  },
-  "H3dB7d12L2oCyMz7CTF7x3Lqex1SvAxWKhrUSUyapump": {
-    "created_at": "2026-10-14T20:35:12.897900+00:00",
-    "name": "SpaceXTeslaXAI",
-    "checked": true
-  },
   "9HfEQoadTeh1vtbkfkA9btGC9PuBmi5EZD9VRpAnpump": {
     "created_at": "2026-10-14T20:40:17.558993+00:00",
     "name": "US Oil",
@@ -2487,57 +2462,57 @@
   "8PWR5qkGjqVaUTmR4jPp9YU641sK3q3RqNLefTbNpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "TESTNET",
-    "checked": false
+    "checked": true
   },
   "EnMo6JHVFQ9DjV8vLckoTLPUNmPExAKpn7jt665qpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "cijo",
-    "checked": false
+    "checked": true
   },
   "AEhTfEwvbNbZ2sZYQowATmKVo1veMHeRVqLP5hmbpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "wadauuck",
-    "checked": false
+    "checked": true
   },
   "9dKjUCekqjcVCpfS3iB275KEA4UEihxVs6xpKSNdpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "SWARMCHASERS",
-    "checked": false
+    "checked": true
   },
   "7cZi8reRW1yUBqMJnNzTRtNcdq8cv1WvGG1VyUEXpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Agent Picnic",
-    "checked": false
+    "checked": true
   },
   "cr5aCSrvPiHg5ujKFcyV8jeMMcVU4rijsJXDgB8HTJp": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Agent Picnic",
-    "checked": false
+    "checked": true
   },
   "FrAJS398FvcZxahXaksZ9W4JjegdgAymyPztdmbT31Pf": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Yuri",
-    "checked": false
+    "checked": true
   },
   "Ch6JRC6EPtAwL3CwtR67SdsoF9Ccper76XwnM8xHpy4T": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Yuri",
-    "checked": false
+    "checked": true
   },
   "J7xqrPrHmjxQfJUogyeBxPjRjsWCP7goNvCXKfFUpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Startup Agency",
-    "checked": false
+    "checked": true
   },
   "GvT6WfVjvKN6DTt4n3cYQWmMEhyGfa73a24oViuZpump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "TESLA",
-    "checked": false
+    "checked": true
   },
   "9czh278QijrYsmcNxzjAKoRNsherc54HibF63k7Npump": {
     "created_at": "2026-10-14T23:10:16.625337+00:00",
     "name": "Pedro",
-    "checked": false
+    "checked": true
   },
   "HMgcE6PSFgTFCTombPzNNDq24nM7jfQg29mKN46mpump": {
     "created_at": "2026-10-14T23:15:18.592353+00:00",
@@ -2797,6 +2772,46 @@
   "522SQveZaDjiPDB7iotC37n7ra3pwJQo7f72y4Kapump": {
     "created_at": "2026-10-14T23:30:14.613401+00:00",
     "name": "The Walking Fish",
+    "checked": false
+  },
+  "4H9tWnvqB5Pv7RnfKa7Q2CpDTvpJGGg4wychLnqjpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "awd",
+    "checked": false
+  },
+  "7iEoovjywcX6KfWPpFtwgZF4Vz3WhqGyNAaJCCLCpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "BYD AUTO",
+    "checked": false
+  },
+  "9A9HZvgBwfwygGyuRJFFFaBKmKbhCjZ9tkQQQ8Tnpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "TESTNET",
+    "checked": false
+  },
+  "A5M5ZtvUdMBMmSYqR1KSFRFsY8StQgQ1ZDWuD5YBeNHW": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "King Bobcat",
+    "checked": false
+  },
+  "C364RckKzDgzf1itYyuVhEegPBQvkLroixv62Hyfpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "Hello this is giga narra",
+    "checked": false
+  },
+  "3o3VvW6h23Map6CVuh2sfKqzQs15W1v5878Sg7TDpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "Hello this is giga narra",
+    "checked": false
+  },
+  "FnKWHvc2vE8EhsZSPmXUiDLXrFnZgPsfiXQF47Dzpump": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "awd",
+    "checked": false
+  },
+  "4SEG58Lkde2Ac5htg1ZvJxXvnfmcvnBrfNEHVi15SzmR": {
+    "created_at": "2026-10-14T23:35:15.072616+00:00",
+    "name": "vgjh",
     "checked": false
   }
 }
