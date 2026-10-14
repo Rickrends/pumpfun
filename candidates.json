@@ -1,29 +1,4 @@
 {
-  "5ESpqVbawpNaZoBiQ9Z7dbMbYthwGQQvZ47RTYkspump": {
-    "created_at": "2026-10-14T07:35:11.811448+00:00",
-    "name": "The Original Hodl",
-    "checked": true
-  },
-  "9kc2NPEMVPATFmGKVfHyQ7H9CZnyKTmMkF3YXZeNpump": {
-    "created_at": "2026-10-14T07:35:11.811448+00:00",
-    "name": "apeonputer",
-    "checked": true
-  },
-  "5vqwW7ty6M8pHhxQgUJratQ8g6Wdcsej1hc4UUSMZMVB": {
-    "created_at": "2026-10-14T07:35:11.811448+00:00",
-    "name": "t",
-    "checked": true
-  },
-  "EwdLF9x9NEmc1zsHtdXhewJ8B7wZL2Hgk2o2478iZzP4": {
-    "created_at": "2026-10-14T07:35:11.811448+00:00",
-    "name": "t",
-    "checked": true
-  },
-  "Hjd49C8farTMuhMWSKNc9ehwjxuXp1bhnrTox4Pfpump": {
-    "created_at": "2026-10-14T07:35:11.811448+00:00",
-    "name": "Bully",
-    "checked": true
-  },
   "J4ksuVirCiuuSDex7w9SscNuJxULYpap7iutTv8ipump": {
     "created_at": "2026-10-14T07:40:13.378286+00:00",
     "name": "WAGMI cat",
@@ -1067,17 +1042,17 @@
   "F3QH6dXxYDDt1xu6r32neyq5tncxdz8WN9Y2fiWppump": {
     "created_at": "2026-10-14T10:10:21.735806+00:00",
     "name": "The Chill Cat",
-    "checked": false
+    "checked": true
   },
   "2sUAJvcftsFUxtgGJf7t6CatEiESbgenZoZ9xeDnpump": {
     "created_at": "2026-10-14T10:10:21.735806+00:00",
     "name": "Miss Dolly Parton",
-    "checked": false
+    "checked": true
   },
   "96v4G6PUnhNASb6nEGumTh51W82Mi5fP5tskt487pump": {
     "created_at": "2026-10-14T10:10:21.735806+00:00",
     "name": "PRICE",
-    "checked": false
+    "checked": true
   },
   "6XgXwxnBp9MsLqyNXM9u5eWNfo4kfLtXReFkDBiNBpbj": {
     "created_at": "2026-10-14T10:15:15.962326+00:00",
@@ -1287,6 +1262,31 @@
   "3YttipTxm1XSetHgirotn4bbmcjDAMQbm6e8ZQSNKnSY": {
     "created_at": "2026-10-14T10:30:20.978343+00:00",
     "name": "STUNK\u0415R",
+    "checked": false
+  },
+  "DLS177STiMy6WLMGzQgkjGFdq2czbB7EoGmV3y7Sua2E": {
+    "created_at": "2026-10-14T10:35:15.726211+00:00",
+    "name": "AI",
+    "checked": false
+  },
+  "BbQBmoiMZKKbPr8BHrXaL5xspN4yfCMcQDkmpk7kpump": {
+    "created_at": "2026-10-14T10:35:15.726211+00:00",
+    "name": "Charlie",
+    "checked": false
+  },
+  "GxWYHQ9vpuvdxcazBYHVvXXFMQpydWjX4kBeN95pump": {
+    "created_at": "2026-10-14T10:35:15.726211+00:00",
+    "name": "UU",
+    "checked": false
+  },
+  "GJANncqxev9TR3YjZBLwuQFKxoLyqPrQs5Bz3iBU9R6C": {
+    "created_at": "2026-10-14T10:35:15.726211+00:00",
+    "name": "MogGork",
+    "checked": false
+  },
+  "FhRAq1qRbTR5BSqUbydL8Po1iYcm6rPiU3LWJXjrh6Qo": {
+    "created_at": "2026-10-14T10:35:15.726211+00:00",
+    "name": "Untaxxed Solana",
     "checked": false
   }
 }
