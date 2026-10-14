@@ -1,39 +1,4 @@
 {
-  "8sW6JdqvKN3GRKaKhyWAj8N1KpYZd4tPkBwdZFEHpump": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "Allele",
-    "checked": true
-  },
-  "ET4GMNgqEhDdAVpdjXFWhFTFHpfSF7mvUM8hbb9zxkeQ": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "Gypsy",
-    "checked": true
-  },
-  "Ds56H5JREu69q2eRkPb3wcDNYimDDx6uGn35DfCYuKx1": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "\u00c7ingenem",
-    "checked": true
-  },
-  "2kL2SgQApUKtGhUNy8MyR4o5ud7dLsB3ZDBND8tDpump": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "\u00c7INGENEM",
-    "checked": true
-  },
-  "F5JHUu1JkuPfpvSwd5JnJeVLZxSQtw5LtsgNDeh2pump": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "Black Shiba",
-    "checked": true
-  },
-  "9RZeK9WyEKoTD6n5KajiKSRnvDfbfGneWMjqcPuLivVy": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "\u00c7INGENEM",
-    "checked": true
-  },
-  "CnEG3CTe9bD7zNgfsMAfthxKj6eiGE4HZxV3cEW3geNE": {
-    "created_at": "2026-10-14T04:05:11.990577+00:00",
-    "name": "\u00c7ingenem",
-    "checked": true
-  },
   "DJcABajjstBBqpcWbgzakFKeVkgVwZzfam5kGS1wZ6YT": {
     "created_at": "2026-10-14T04:10:13.979576+00:00",
     "name": "100x coin",
@@ -1267,6 +1232,46 @@
   "6Bb5efqKfMX3Z3CsK1S4YKYNTRh8W5jjGfPEBqbEpump": {
     "created_at": "2026-10-14T07:00:21.915778+00:00",
     "name": "Alyx",
+    "checked": false
+  },
+  "HyZ2KpCAUFBmYHDBgJsAfTo1inUoUuBNE2QtRwUgpump": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "OpenAI",
+    "checked": false
+  },
+  "2m7SEoLb12FfQZU9ea6Wucb4E4M4949z6fqsNXuVpump": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Wine Coin",
+    "checked": false
+  },
+  "EfNHz2Bdio2A177PX4YUmmggsF7wVGfUmbfRkX15pump": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "The Claudia Cow",
+    "checked": false
+  },
+  "A3KnS6Dnt1UdcWWEcms8tWsiGoJU9SpZwevLmzYbcsCa": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Wine Coin",
+    "checked": false
+  },
+  "1UbSDgZEcqKxH4HAw8ttFztQVR6PN9s2uZ2o7fSeQsM": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Wine Coin",
+    "checked": false
+  },
+  "AccD1Hcu5cAyF9C1kzbYQkVUYbUAt3N4Hnv3MF9EPzdK": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Bithash Online",
+    "checked": false
+  },
+  "8QsXGp5xqH1cQLxW4Z9dSq2XN8v8i6hrtFyi8fKbpump": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Wine Coin",
+    "checked": false
+  },
+  "9JYFG6PnKHqgtCUGQhbuoDcwR1i7tvPYUPbkpcj9PZ8r": {
+    "created_at": "2026-10-14T07:05:15.537835+00:00",
+    "name": "Wine Coin",
     "checked": false
   }
 }
