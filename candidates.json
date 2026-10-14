@@ -1,39 +1,4 @@
 {
-  "8XWTqwxy4DCWtPAGPPkM9ajL9czRaKuLr62iRKr8pump": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "S&X",
-    "checked": true
-  },
-  "EKRxM3PPQ7uqGL1Muf1Z5KMRQb77UWw1dExHoBzop3NN": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "S&X",
-    "checked": true
-  },
-  "94egdH45bfyAPzBkBdz1GMRgqTZkToZKa55RjaYKpump": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "NVIDIA",
-    "checked": true
-  },
-  "7YKJGMvqAbkCpkFwNPoda2D9jDKaKtYFDHM4ZBGMpump": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "WE",
-    "checked": true
-  },
-  "2f656war2GRKzGJbP2eTZNWkV9Mi8aFSP8dSXKgCpump": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "KeptForest",
-    "checked": true
-  },
-  "J6kE1xXpgpQKMjSjopoixjF7Cr7w7CgTV4Wv9h5efZ7b": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "The Embryo Corporation",
-    "checked": true
-  },
-  "7fpCXFirYxr4jaeJpUqMRNsnUs73x1FXugNzw1BBpump": {
-    "created_at": "2026-10-14T03:15:14.297440+00:00",
-    "name": "Synapse",
-    "checked": true
-  },
   "9JDywUWF2c4tUXYeq1dNSL6shmpQF17rBXnb7gQHworm": {
     "created_at": "2026-10-14T03:20:15.401610+00:00",
     "name": "a worm made of coins",
@@ -1382,32 +1347,32 @@
   "2oE6K9BBDWpThLMdyLrueatNyX7N6Niaj43GQxympump": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "Monster Moves",
-    "checked": false
+    "checked": true
   },
   "2yMptKHz6q5bN6H1yKd2YojJHNTjr81SghVMfjmFpump": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "Triumph Packs",
-    "checked": false
+    "checked": true
   },
   "9sskPBTRFx8vJQ31Mva7T7eJCRDkXPoZqsZPyTsGpump": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "Chonk The Fat Wizard Cat",
-    "checked": false
+    "checked": true
   },
   "Fj3QHa5QNfmco3h1pSAvTrGd5kWV2U2a8NQQj92rpump": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "\u306b\u3083\u3093\u30d1\u30ab",
-    "checked": false
+    "checked": true
   },
   "E1sotHjTQfd8rCN1adwuXCf5Uio4tECnz7nCfEqE6daC": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "Popdogecoin",
-    "checked": false
+    "checked": true
   },
   "2jVjC4q5qf9BoEuMnbSCp5AvMMsdaUJ7UFRPhiFZpump": {
     "created_at": "2026-10-14T05:55:11.459576+00:00",
     "name": "Justice For Brain",
-    "checked": false
+    "checked": true
   },
   "5c7gkbJPLxDHchd38yHKb3Zctj7NkVXQWvGVdkkppump": {
     "created_at": "2026-10-14T06:00:17.927664+00:00",
@@ -1507,6 +1472,41 @@
   "77cQV9F66RVnCBGoPamsthydHhnfLxVPepg1JS3epump": {
     "created_at": "2026-10-14T06:10:14.032102+00:00",
     "name": "The Baby Porcupine",
+    "checked": false
+  },
+  "FvKuaixnWsZvABxA2vQWhH1bHGMTpuMmrFC6KBEzyo8M": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "STOCKMARKET",
+    "checked": false
+  },
+  "2a5cqnZY2V1rS7ZP31Ukch4Uky2B5aHDdbsYEtrH56jk": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "Flovia",
+    "checked": false
+  },
+  "JAhSxLcS5D8FSsUhJ7ivbTJDWZtZ6qWBTAq2sxSbpump": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "AnyCode",
+    "checked": false
+  },
+  "ATZnv1ijQwRicVKfMDveyyu1gV88uFrrGXwE91oHrSAv": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "AnyCode",
+    "checked": false
+  },
+  "3GaJptPjEjwPoNGVJP1dDzdvpqMTSqwpmpBzWJfrHb6B": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "Grok",
+    "checked": false
+  },
+  "6oD6Wby4ArHnRTWn9gYvsox4tR4wx11jEHP8Lwyi8xmK": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "Grokbot",
+    "checked": false
+  },
+  "4p9n81dFF9jMRUvTFh6zie6QhsW5jTsSNA2tZN62wKwj": {
+    "created_at": "2026-10-14T06:15:14.312607+00:00",
+    "name": "Meme TV",
     "checked": false
   }
 }
