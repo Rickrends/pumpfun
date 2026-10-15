@@ -1,59 +1,4 @@
 {
-  "8PWR5qkGjqVaUTmR4jPp9YU641sK3q3RqNLefTbNpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "TESTNET",
-    "checked": true
-  },
-  "EnMo6JHVFQ9DjV8vLckoTLPUNmPExAKpn7jt665qpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "cijo",
-    "checked": true
-  },
-  "AEhTfEwvbNbZ2sZYQowATmKVo1veMHeRVqLP5hmbpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "wadauuck",
-    "checked": true
-  },
-  "9dKjUCekqjcVCpfS3iB275KEA4UEihxVs6xpKSNdpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "SWARMCHASERS",
-    "checked": true
-  },
-  "7cZi8reRW1yUBqMJnNzTRtNcdq8cv1WvGG1VyUEXpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Agent Picnic",
-    "checked": true
-  },
-  "cr5aCSrvPiHg5ujKFcyV8jeMMcVU4rijsJXDgB8HTJp": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Agent Picnic",
-    "checked": true
-  },
-  "FrAJS398FvcZxahXaksZ9W4JjegdgAymyPztdmbT31Pf": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Yuri",
-    "checked": true
-  },
-  "Ch6JRC6EPtAwL3CwtR67SdsoF9Ccper76XwnM8xHpy4T": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Yuri",
-    "checked": true
-  },
-  "J7xqrPrHmjxQfJUogyeBxPjRjsWCP7goNvCXKfFUpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Startup Agency",
-    "checked": true
-  },
-  "GvT6WfVjvKN6DTt4n3cYQWmMEhyGfa73a24oViuZpump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "TESLA",
-    "checked": true
-  },
-  "9czh278QijrYsmcNxzjAKoRNsherc54HibF63k7Npump": {
-    "created_at": "2026-10-14T23:10:16.625337+00:00",
-    "name": "Pedro",
-    "checked": true
-  },
   "HMgcE6PSFgTFCTombPzNNDq24nM7jfQg29mKN46mpump": {
     "created_at": "2026-10-14T23:15:18.592353+00:00",
     "name": "TESLA",
@@ -1972,37 +1917,37 @@
   "NKEda5nHhNGgjrE9nDdMvaEmkmJ96qqxzBVZEcKmjSg": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "ALLINU",
-    "checked": false
+    "checked": true
   },
   "7B1EvqEg5LZHGk8hR3mXzgVfC1SRCZxjie6BV1mkpump": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "WHY IS IT PAIRED TO ALIBABA",
-    "checked": false
+    "checked": true
   },
   "zUt5pg88m3zgutNoYBcDoh2HrhfeT6VBrs2XjJxpump": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "Zephydock",
-    "checked": false
+    "checked": true
   },
   "FPcVGDUPtzjoPmkQFS7Es3LVUNu18ToTBDeiRn6Fpump": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "Brownies",
-    "checked": false
+    "checked": true
   },
   "CNr1zfqCL5XQBaUFF8vTVXCxqGxf2oPjy8g1hN7Cpump": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "Magic Internet Pepe",
-    "checked": false
+    "checked": true
   },
   "ELbfwPye6xtuDetmyRPjxcJbGN3ihpn3i3ooZ2tGpump": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "SolLama",
-    "checked": false
+    "checked": true
   },
   "n14M2hXzFCuBEkPdXjbgaTdR7iMDKdKj8BycZxAFaud": {
     "created_at": "2026-10-15T01:45:15.104741+00:00",
     "name": "Bark & Fart",
-    "checked": false
+    "checked": true
   },
   "7XiN5Hy4VWaonArt5nhpav5YMjrYkVmP7SxpgYowUxjk": {
     "created_at": "2026-10-15T01:50:16.755519+00:00",
@@ -2287,6 +2232,46 @@
   "25beHeA4pSFLbhkrVQau3bAfHhU5oDpRb6RdgkHtpump": {
     "created_at": "2026-10-15T02:05:12.455384+00:00",
     "name": "Reagan's Trickle",
+    "checked": false
+  },
+  "8mLDUfeJxf1dPRqcAVcDxNk194wC1swFXpNPF3eTpump": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "City by Humans",
+    "checked": false
+  },
+  "2aZVTXdaUWK4ot889wLGpcVVxco5uwDd5veEtH5NQctL": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "DOPE",
+    "checked": false
+  },
+  "FGpYQwx35FNzBdCSgonMyjtU4Z7Ty6K9E8nLAAaTaqrR": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "TapmemeCat",
+    "checked": false
+  },
+  "ESow19wpPQm9QTz6QxZDYhtVswYeVSiH2w6HGTnbpump": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "ShibEngu",
+    "checked": false
+  },
+  "HwkK8o3gwjF6jWf1gLyQ4sCoeDGGuVCHM3J7zytNpump": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "black cat",
+    "checked": false
+  },
+  "HGvGp8ZCpbnM4Zv5FBFjUzkEV6DujPLsLM4hzBGspump": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "Tesla Super Intelligence",
+    "checked": false
+  },
+  "nzCxBcigsrdPSsXYV7drAMA4dP67fbxDytsnMpquAxP": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "black cat",
+    "checked": false
+  },
+  "EZFkTodcg1xvaJLMXqozMTdEpcD3fNGu8kFZLGtUpump": {
+    "created_at": "2026-10-15T02:10:14.850179+00:00",
+    "name": "Animal of The Year",
     "checked": false
   }
 }
