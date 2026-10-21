@@ -304,7 +304,18 @@ def evaluate_buy(mint: str, prior_buyer_count: int | None) -> tuple[dict | None,
 # --------------------------------------------------------------------------
 
 def send_telegram(text: str):
-    requests.post(TELEGRAM_SEND_URL, json={"chat_id": TELEGRAM_CHAT_ID, "text": text}, timeout=15)
+    """Verifies the send actually succeeded and prints the result either
+    way -- a silent requests.post() with no status check meant a failed
+    alert would look identical to 'nothing passed', with no record of
+    which one actually happened."""
+    try:
+        resp = requests.post(TELEGRAM_SEND_URL, json={"chat_id": TELEGRAM_CHAT_ID, "text": text}, timeout=15)
+        if resp.status_code == 200 and resp.json().get("ok"):
+            print(f"  [telegram] sent OK")
+        else:
+            print(f"  [telegram] FAILED: status={resp.status_code} body={resp.text[:300]}")
+    except Exception as e:
+        print(f"  [telegram] FAILED to send: {e}")
 
 
 def send_buy_alert(mint: str, name: str, r: dict):
