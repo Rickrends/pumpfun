@@ -1,16 +1,14 @@
 name: Pump.fun Scan
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes -- GitHub's documented floor; actual runs can lag further under load
-  workflow_dispatch: {}       # lets you trigger a run manually from the Actions tab, useful for testing
+  workflow_dispatch: {}       # triggered by cron-job.org (and manually, for testing)
 
 permissions:
-  contents: write   # needed so the workflow can commit the updated candidates.json back
+  contents: write
 
 concurrency:
-  group: pumpfun-scan        # prevents two runs from overlapping and racing to push at once
-  cancel-in-progress: false  # let an in-flight run finish rather than killing it mid-push
+  group: pumpfun-scan
+  cancel-in-progress: false
 
 jobs:
   scan:
@@ -37,8 +35,25 @@ jobs:
         run: |
           git config user.name "pumpfun-scan-bot"
           git config user.email "actions@github.com"
-          git add candidates.json
-          git diff --staged --quiet && exit 0
-          git commit -m "Update candidates [skip ci]"
-          git push || (git pull --rebase origin main && git push) 
 
+          for i in 1 2 3; do
+            git add candidates.json
+            git diff --staged --quiet && { echo "No changes to commit."; exit 0; }
+            git commit -m "Update candidates [skip ci]"
+            if git push; then
+              echo "Push succeeded."
+              exit 0
+            fi
+
+            echo "Push rejected (another run wrote first) -- merging at the JSON level, attempt $i"
+            git fetch origin main
+            git show origin/main:candidates.json > /tmp/remote_candidates.json || echo '{}' > /tmp/remote_candidates.json
+            python3 merge_candidates.py
+
+            git reset --soft origin/main
+            git add candidates.json
+            git commit -m "Update candidates (merged) [skip ci]"
+          done
+
+          echo "Failed to push after retries"
+          exit 1
