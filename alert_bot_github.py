@@ -86,6 +86,26 @@ MOBULA_SECURITY_URL = "https://api.mobula.io/api/2/token/security"
 TELEGRAM_SEND_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
 
+def mobula_get(url: str, params: dict) -> requests.Response:
+    """
+    Self-diagnosing request: tries the raw-key Authorization header first
+    (what the docs say is correct); if that gets a 403, retries once with
+    a 'Bearer <key>' prefix instead, and logs explicitly which one
+    actually worked. This exists specifically because raw-key auth has
+    been returning 403 on every call with zero credits consumed -- rather
+    than guess further, let the code find out and report back directly.
+    """
+    resp = requests.get(url, params=params, headers={"Authorization": MOBULA_API_KEY}, timeout=15)
+    if resp.status_code != 403:
+        return resp
+    resp_bearer = requests.get(url, params=params, headers={"Authorization": f"Bearer {MOBULA_API_KEY}"}, timeout=15)
+    if resp_bearer.status_code == 200:
+        print(f"  [auth-test] raw key got 403, but 'Bearer <key>' succeeded -- auth format needs fixing in code")
+    else:
+        print(f"  [auth-test] both raw key (403) and Bearer (status {resp_bearer.status_code}) failed")
+    return resp_bearer
+
+
 # --------------------------------------------------------------------------
 # State
 # --------------------------------------------------------------------------
@@ -170,16 +190,12 @@ def discover_trending_tokens() -> list[dict]:
 
 def fetch_trade_snapshot(token_address: str) -> dict | None:
     since = datetime.now(timezone.utc) - timedelta(minutes=30)
-    resp = requests.get(
-        MOBULA_TRADES_URL,
-        params={
-            "chainId": "solana:solana", "address": token_address, "mode": "asset",
-            "sortOrder": "desc", "limit": 500, "fromDate": since.isoformat(),
-        },
-        headers={"Authorization": MOBULA_API_KEY}, timeout=15,
-    )
+    resp = mobula_get(MOBULA_TRADES_URL, {
+        "chainId": "solana:solana", "address": token_address, "mode": "asset",
+        "sortOrder": "desc", "limit": 500, "fromDate": since.isoformat(),
+    })
     if resp.status_code != 200:
-        print(f"  [info] {token_address}: Mobula trades returned {resp.status_code}")
+        print(f"  [info] {token_address}: Mobula trades returned {resp.status_code} -- body: {resp.text[:300]}")
         return None
     trades = resp.json().get("data", [])
     if not trades:
@@ -205,12 +221,11 @@ def fetch_trade_snapshot(token_address: str) -> dict | None:
 def fetch_wallet_labels(wallets: list[str], token_address: str) -> dict[str, list[str]]:
     if not wallets:
         return {}
-    resp = requests.get(
-        MOBULA_WALLET_LABELS_URL,
-        params={"walletAddresses": ",".join(list(wallets)[:100]), "tokenAddress": token_address},
-        headers={"Authorization": MOBULA_API_KEY}, timeout=15,
-    )
+    resp = mobula_get(MOBULA_WALLET_LABELS_URL, {
+        "walletAddresses": ",".join(list(wallets)[:100]), "tokenAddress": token_address,
+    })
     if resp.status_code != 200:
+        print(f"  [info] wallet-labels returned {resp.status_code} -- body: {resp.text[:300]}")
         return {}
     data = resp.json().get("data", resp.json())
     entries = data if isinstance(data, list) else data.get("wallets", [])
@@ -222,12 +237,9 @@ def fetch_security(token_address: str) -> dict:
     must treat missing fields as 'unknown', not an automatic fail, since
     this data is commonly null for very fresh/pre-migration tokens."""
     try:
-        resp = requests.get(
-            MOBULA_SECURITY_URL,
-            params={"blockchain": "solana:solana", "address": token_address},
-            headers={"Authorization": MOBULA_API_KEY}, timeout=15,
-        )
+        resp = mobula_get(MOBULA_SECURITY_URL, {"blockchain": "solana:solana", "address": token_address})
         if resp.status_code != 200:
+            print(f"  [info] security returned {resp.status_code} -- body: {resp.text[:300]}")
             return {}
         return resp.json().get("data", {}) or {}
     except Exception as e:
@@ -236,10 +248,7 @@ def fetch_security(token_address: str) -> dict:
 
 
 def fetch_current_price(mint: str) -> float | None:
-    resp = requests.get(
-        MOBULA_PRICE_URL, params={"address": mint, "blockchain": "Solana"},
-        headers={"Authorization": MOBULA_API_KEY}, timeout=15,
-    )
+    resp = mobula_get(MOBULA_PRICE_URL, {"address": mint, "blockchain": "Solana"})
     if resp.status_code != 200:
         return None
     price = resp.json().get("data", {}).get("priceUSD")
