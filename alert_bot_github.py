@@ -1,42 +1,34 @@
 #!/usr/bin/env python3
 """
-alert_bot_github.py -- v6: real unique-buyer tracking (PumpPortal trade
-stream), real holder-concentration and mint/freeze-authority checks
-(Solana's own free RPC), and explicit UNKNOWN vs REJECT reporting.
+alert_bot_github.py -- v7: adds two artificial-pump detectors on top of
+v6's real buyer-wallet tracking and Solana RPC security checks.
 
-What changed from v5, and why
--------------------------------
-1. UNIQUE BUYERS, FOR REAL (not a transaction-count proxy anymore):
-   PumpPortal documents a second subscription, confirmed from their own
-   docs and examples: {"method": "subscribeTokenTrade", "keys": [mints]}.
-   Events carry a real wallet address (traderPublicKey), buy/sell side,
-   and SOL amount -- on the SAME free, keyless connection already used
-   for discovery. This run's listening window now also watches every
-   still-active candidate's trades, and the set of distinct wallets seen
-   buying is accumulated across runs in candidates.json until the token
-   is evaluated. This only covers pump.fun bonding-curve trades without
-   a funded PumpPortal API key -- tokens discovered via the "trending"
-   source (already-migrated, DexScreener-only) likely won't have this
-   data, and fall back to DexScreener's transaction-count proxy, with
-   the alert explicitly saying which method was used so the two are
-   never confused as equivalent.
+What's new in this version, and why
+--------------------------------------
+1. MARKET-CAP GROWTH-RATE CHECK: a token hitting an extreme market cap
+   within minutes of launch (the exact case that prompted this -- $12M
+   at 42 minutes old) is a classic signature of a sniper/bundle pump,
+   not organic demand. Computed as market_cap / age_in_minutes, rejected
+   if it exceeds MAX_MCAP_PER_MIN_USD. This is a heuristic cutoff, not a
+   scientifically derived line -- tune it if it's too strict or too loose
+   for what you're seeing.
 
-2. HOLDER CONCENTRATION + MINT/FREEZE AUTHORITY, FOR REAL: both are
-   retrieved directly from Solana's own public JSON-RPC
-   (getTokenLargestAccounts, getTokenSupply, getAccountInfo) -- not from
-   any third-party provider, so nothing here can be paywalled out from
-   under this bot the way Mobula was. Honest limitation: the top
-   holder accounts returned are TOKEN ACCOUNTS, not necessarily distinct
-   WALLETS (one wallet can hold tokens in more than one account) --
-   same simplification most public scanners make, stated plainly rather
-   than silently assumed.
+2. SINGLE-BUYER DOMINANCE CHECK: rather than just averaging SOL per
+   buyer (which blurs out a single whale), this now tracks EXACTLY how
+   much SOL each individual wallet contributed (buyer_sol_map, not just
+   a set of addresses), and rejects if any one wallet accounts for more
+   than MAX_SINGLE_BUYER_SHARE_PCT of all buy volume -- a direct
+   statistical fingerprint of one actor controlling the "demand" rather
+   than many independent buyers. Only applies when real wallet-level
+   data exists (method == real_wallets); the DexScreener tx-count
+   fallback has no per-wallet breakdown to check this against.
 
-3. UNKNOWN vs REJECT, explicitly separated in the logs: a token with no
-   pair data, a failed RPC call, or missing trade data is logged as
-   [unknown] -- data genuinely unavailable -- never folded into [reject],
-   which is reserved for cases where real data was available and
-   actually failed a threshold. A 403 or a missing field is never
-   silently treated as "this token failed the filters."
+Honest limitation carried over from v6, still true here: neither check
+proves coordination -- a wallet could legitimately buy a large position
+once. These are statistical red flags worth surfacing, not certainties.
+A real funding-source-clustering check (do the buyer wallets share a
+common funding wallet) would be more conclusive but requires extra
+Solana RPC calls per buyer and hasn't been built yet.
 
 Still NO WALLET. NO PRIVATE KEY. Reads public data, sends Telegram
 messages, writes one local JSON file. Nothing else.
@@ -57,25 +49,25 @@ TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 SOLANA_RPC_URL = os.environ.get("SOLANA_RPC_URL", "https://api.mainnet-beta.solana.com")
 
-# Discovery / listening
 DISCOVERY_WINDOW_SEC = int(os.environ.get("DISCOVERY_WINDOW_SEC", 260))
 
-# Timing
 CHECK_AFTER_MIN = int(os.environ.get("CHECK_AFTER_MIN", 20))
 MOMENTUM_GAP_MIN = int(os.environ.get("MOMENTUM_GAP_MIN", 10))
 MAX_TOKEN_AGE_MIN = int(os.environ.get("MAX_TOKEN_AGE_MIN", 90))
 
-# Buy-side thresholds
-MIN_UNIQUE_BUYERS = int(os.environ.get("MIN_UNIQUE_BUYERS", 4))    # real distinct wallets, when PumpPortal trade data exists
-MIN_BUYS_H1 = int(os.environ.get("MIN_BUYS_H1", 8))                # fallback: DexScreener tx count, when it doesn't
+MIN_UNIQUE_BUYERS = int(os.environ.get("MIN_UNIQUE_BUYERS", 4))
+MIN_BUYS_H1 = int(os.environ.get("MIN_BUYS_H1", 8))
 MIN_LIQUIDITY_USD = float(os.environ.get("MIN_LIQUIDITY_USD", 5000))
 MIN_NET_BUY_RATIO = float(os.environ.get("MIN_NET_BUY_RATIO", 1.3))
 
-# Security thresholds (Solana RPC, free, no key)
 MAX_TOP10_HOLDER_PCT = float(os.environ.get("MAX_TOP10_HOLDER_PCT", 50))
 REQUIRE_MINT_AUTHORITY_REVOKED = os.environ.get("REQUIRE_MINT_AUTHORITY_REVOKED", "true").lower() == "true"
 
-# Exit-signal tuning (unchanged)
+# New: artificial-pump detectors
+MAX_MCAP_PER_MIN_USD = float(os.environ.get("MAX_MCAP_PER_MIN_USD", 50000))
+MAX_SINGLE_BUYER_SHARE_PCT = float(os.environ.get("MAX_SINGLE_BUYER_SHARE_PCT", 40))
+MIN_PRICE_GROWTH_PCT = float(os.environ.get("MIN_PRICE_GROWTH_PCT", 5))  # price must have risen at least this much since the snapshot, not just buyer count
+
 EXIT_DRAWDOWN_PCT = float(os.environ.get("EXIT_DRAWDOWN_PCT", 0.35))
 EXIT_TRACK_HOURS = float(os.environ.get("EXIT_TRACK_HOURS", 24))
 
@@ -110,21 +102,15 @@ def save_candidates(candidates: dict):
 
 
 # --------------------------------------------------------------------------
-# PumpPortal: new-launch discovery AND real trade data, one connection
+# PumpPortal: new-launch discovery AND real per-wallet trade data
 # --------------------------------------------------------------------------
 
 async def listen_pumpportal(window_seconds: int, trade_mints: list[str]) -> tuple[list[dict], dict]:
     """
-    Single websocket session, two subscriptions at once:
-      - subscribeNewToken: brand-new launches (unchanged from before)
-      - subscribeTokenTrade: real per-trade events for every mint passed
-        in trade_mints (every still-active candidate), confirmed format
-        from PumpPortal's own docs/examples: {"method":"subscribeTokenTrade",
-        "keys":[...]}, events carry txType ("buy"/"sell"), traderPublicKey,
-        solAmount, mint.
-
     Returns (new_launch_events, trade_activity) where trade_activity is
-    {mint: {"buyers": set(), "buy_sol": float, "sell_sol": float}}.
+    {mint: {"buyer_sol": {wallet: cumulative_sol}, "sell_sol": float}} --
+    now tracking PER-WALLET SOL amounts, not just a set of addresses,
+    so single-buyer dominance can be computed later.
     """
     new_launches = []
     trade_activity: dict[str, dict] = {}
@@ -133,8 +119,6 @@ async def listen_pumpportal(window_seconds: int, trade_mints: list[str]) -> tupl
         async with websockets.connect(PUMPPORTAL_WS_URL, open_timeout=15) as ws:
             await ws.send(json.dumps({"method": "subscribeNewToken"}))
             if trade_mints:
-                # PumpPortal doesn't document a hard cap, but keep this
-                # bounded to something reasonable per run regardless.
                 await ws.send(json.dumps({"method": "subscribeTokenTrade", "keys": trade_mints[:500]}))
 
             loop = asyncio.get_event_loop()
@@ -157,11 +141,11 @@ async def listen_pumpportal(window_seconds: int, trade_mints: list[str]) -> tupl
                     new_launches.append({"mint": data["mint"], "name": data.get("name", "?"), "source": "new_launch"})
                 elif tx_type in ("buy", "sell") and data.get("mint") and data.get("traderPublicKey"):
                     mint = data["mint"]
-                    entry = trade_activity.setdefault(mint, {"buyers": set(), "buy_sol": 0.0, "sell_sol": 0.0})
+                    entry = trade_activity.setdefault(mint, {"buyer_sol": {}, "sell_sol": 0.0})
                     sol_amount = float(data.get("solAmount", 0) or 0)
                     if tx_type == "buy":
-                        entry["buyers"].add(data["traderPublicKey"])
-                        entry["buy_sol"] += sol_amount
+                        wallet = data["traderPublicKey"]
+                        entry["buyer_sol"][wallet] = entry["buyer_sol"].get(wallet, 0.0) + sol_amount
                     else:
                         entry["sell_sol"] += sol_amount
     except Exception as e:
@@ -246,9 +230,6 @@ def solana_rpc(method: str, params: list) -> dict | None:
 
 
 def fetch_holder_concentration(mint: str) -> tuple[float | None, bool]:
-    """Returns (top10_pct_of_supply, data_available). Top accounts are
-    TOKEN ACCOUNTS, not guaranteed-distinct wallets -- a known
-    simplification, stated here rather than silently assumed."""
     largest = solana_rpc("getTokenLargestAccounts", [mint])
     supply = solana_rpc("getTokenSupply", [mint])
     if not largest or not supply:
@@ -262,10 +243,6 @@ def fetch_holder_concentration(mint: str) -> tuple[float | None, bool]:
 
 
 def fetch_mint_authority_status(mint: str) -> tuple[bool | None, bool]:
-    """Returns (mint_authority_revoked, data_available). True = safe
-    (authority renounced, supply can't be inflated). Most pump.fun
-    bonding-curve tokens revoke this automatically on creation -- this
-    check matters most for "trending"-source tokens from elsewhere."""
     info = solana_rpc("getAccountInfo", [mint, {"encoding": "jsonParsed"}])
     if not info or not info.get("value"):
         return None, False
@@ -280,10 +257,12 @@ def fetch_mint_authority_status(mint: str) -> tuple[bool | None, bool]:
 # Buy-side evaluation
 # --------------------------------------------------------------------------
 
-def evaluate_buy(mint: str, accumulated: dict, prior_buy_count: int | None) -> tuple[dict | None, str]:
-    real_buyers = len(accumulated.get("buyer_wallets", []))
-    buy_sol = accumulated.get("buy_sol", 0.0)
+def evaluate_buy(mint: str, age_min: float, accumulated: dict, prior_buy_count: int | None,
+                  snapshot_price: float | None) -> tuple[dict | None, str]:
+    buyer_sol = accumulated.get("buyer_sol", {})
     sell_sol = accumulated.get("sell_sol", 0.0)
+    real_buyers = len(buyer_sol)
+    buy_sol = sum(buyer_sol.values())
     has_real_trade_data = real_buyers > 0 or buy_sol > 0 or sell_sol > 0
 
     pair = fetch_dexscreener_pair(mint)
@@ -292,6 +271,7 @@ def evaluate_buy(mint: str, accumulated: dict, prior_buy_count: int | None) -> t
 
     liquidity = pair["liquidity_usd"] if pair else None
     market_cap = pair["market_cap"] if pair else None
+    price_now = pair["price_usd"] if pair else None
 
     if has_real_trade_data:
         buy_count = real_buyers
@@ -316,8 +296,33 @@ def evaluate_buy(mint: str, accumulated: dict, prior_buy_count: int | None) -> t
     if net_ratio < MIN_NET_BUY_RATIO:
         return None, f"net_buy_ratio={net_ratio:.2f} (need {MIN_NET_BUY_RATIO}, method={method})"
 
-    # Security gate -- only spent on candidates that already passed the above,
-    # to keep RPC call volume proportional to near-qualifying tokens.
+    # Price-growth check: buyer COUNT not declining isn't the same thing as
+    # PRICE not declining -- stragglers can keep trickling in even after a
+    # token has already peaked and started rolling over. This is the direct
+    # fix for "buy alert fires, then an immediate exit signal with no real
+    # price gain in between."
+    if snapshot_price is not None and price_now is not None and snapshot_price > 0:
+        price_growth_pct = ((price_now - snapshot_price) / snapshot_price) * 100
+        if price_growth_pct < MIN_PRICE_GROWTH_PCT:
+            return None, (f"price not rising: {price_growth_pct:+.1f}% since snapshot "
+                          f"(need +{MIN_PRICE_GROWTH_PCT}%) -- snapshot=${snapshot_price:.8f} now=${price_now:.8f}")
+
+    # Artificial-pump check 1: market cap growth rate vs token age.
+    if market_cap is not None and age_min > 0:
+        mcap_per_min = market_cap / age_min
+        if mcap_per_min > MAX_MCAP_PER_MIN_USD:
+            return None, (f"mcap_growth=${mcap_per_min:,.0f}/min (max ${MAX_MCAP_PER_MIN_USD:,.0f}/min) "
+                          f"-- ${market_cap:,.0f} at {age_min:.0f}min old, looks like a sniper/bundle pump")
+
+    # Artificial-pump check 2: single-wallet dominance of buy volume.
+    if method == "real_wallets" and buy_sol > 0:
+        max_single = max(buyer_sol.values())
+        share_pct = (max_single / buy_sol) * 100
+        if share_pct > MAX_SINGLE_BUYER_SHARE_PCT:
+            return None, (f"single_buyer_share={share_pct:.0f}% (max {MAX_SINGLE_BUYER_SHARE_PCT}%) "
+                          f"-- one wallet contributed {max_single:.2f} of {buy_sol:.2f} total SOL bought")
+
+    # Security gate -- only spent on candidates already past the above checks.
     top10_pct, holder_data_ok = fetch_holder_concentration(mint)
     mint_revoked, authority_data_ok = fetch_mint_authority_status(mint)
 
@@ -326,9 +331,18 @@ def evaluate_buy(mint: str, accumulated: dict, prior_buy_count: int | None) -> t
     if authority_data_ok and REQUIRE_MINT_AUTHORITY_REVOKED and mint_revoked is False:
         return None, "mint authority NOT revoked -- supply can still be inflated"
 
+    # Honest peak baseline for exit tracking: use whichever of the two
+    # observed prices (snapshot-time or now) was actually higher, so a
+    # token that already peaked slightly before this alert doesn't start
+    # exit-tracking from an artificially low point.
+    observed_peak = max(p for p in (snapshot_price, price_now) if p is not None) if (snapshot_price or price_now) else 0.0
+
     return {
         "buy_count": buy_count, "method": method, "net_buy_ratio": net_ratio,
         "liquidity_usd": liquidity, "market_cap": market_cap,
+        "price_now": price_now, "observed_peak": observed_peak,
+        "mcap_per_min": (market_cap / age_min) if (market_cap and age_min > 0) else None,
+        "max_buyer_share_pct": (max(buyer_sol.values()) / buy_sol * 100) if (method == "real_wallets" and buy_sol > 0) else None,
         "top10_pct": top10_pct if holder_data_ok else None,
         "mint_revoked": mint_revoked if authority_data_ok else None,
     }, "PASSED"
@@ -357,8 +371,12 @@ def send_buy_alert(mint: str, name: str, r: dict):
         f"Net buy ratio: {r['net_buy_ratio']:.1f}x",
         f"Liquidity: ${r['liquidity_usd']:,.0f}",
     ]
+    if r.get("price_now"):
+        lines.append(f"Current price: ${r['price_now']:.8f}")
     if r.get("market_cap"):
-        lines.append(f"Market cap: ${r['market_cap']:,.0f}")
+        lines.append(f"Market cap: ${r['market_cap']:,.0f}" + (f" (${r['mcap_per_min']:,.0f}/min growth)" if r.get("mcap_per_min") else ""))
+    if r.get("max_buyer_share_pct") is not None:
+        lines.append(f"Largest single buyer: {r['max_buyer_share_pct']:.0f}% of total buy volume")
     if r.get("top10_pct") is not None:
         lines.append(f"Top 10 holders: {r['top10_pct']:.0f}% of supply")
     else:
@@ -406,15 +424,14 @@ async def main():
             candidates[mint] = {"created_at": backdated.isoformat(), "name": ev["name"], "checked": False, "source": "trending"}
             added += 1
 
-    # Merge this run's observed trade activity into each candidate's
-    # running accumulated totals (persists across runs until checked).
     for mint, activity in trade_activity.items():
         if mint not in candidates:
             continue
         c = candidates[mint]
-        existing_buyers = set(c.get("buyer_wallets", []))
-        c["buyer_wallets"] = list(existing_buyers | activity["buyers"])
-        c["buy_sol"] = c.get("buy_sol", 0.0) + activity["buy_sol"]
+        existing_buyer_sol = c.get("buyer_sol", {})
+        for wallet, sol in activity["buyer_sol"].items():
+            existing_buyer_sol[wallet] = existing_buyer_sol.get(wallet, 0.0) + sol
+        c["buyer_sol"] = existing_buyer_sol
         c["sell_sol"] = c.get("sell_sol", 0.0) + activity["sell_sol"]
 
     evaluated = 0
@@ -432,18 +449,22 @@ async def main():
         if not snapshot_taken_at:
             if age_min < CHECK_AFTER_MIN:
                 continue
+            snap_pair = fetch_dexscreener_pair(mint)
             c["snapshot_at"] = now.isoformat()
-            c["snapshot_buy_count"] = len(c.get("buyer_wallets", []))
-            print(f"  [snapshot] {mint[:8]}... ({c.get('name','?')}): buy_count={c['snapshot_buy_count']} at age {age_min:.0f}min")
+            c["snapshot_buy_count"] = len(c.get("buyer_sol", {}))
+            c["snapshot_price"] = snap_pair["price_usd"] if snap_pair else None
+            price_str = f"${c['snapshot_price']}" if c["snapshot_price"] else "unknown"
+            print(f"  [snapshot] {mint[:8]}... ({c.get('name','?')}): buy_count={c['snapshot_buy_count']} "
+                  f"price={price_str} at age {age_min:.0f}min")
             continue
 
         mins_since_snapshot = (now - datetime.fromisoformat(snapshot_taken_at)).total_seconds() / 60
         if mins_since_snapshot < MOMENTUM_GAP_MIN:
             continue
 
-        accumulated = {"buyer_wallets": c.get("buyer_wallets", []), "buy_sol": c.get("buy_sol", 0.0), "sell_sol": c.get("sell_sol", 0.0)}
+        accumulated = {"buyer_sol": c.get("buyer_sol", {}), "sell_sol": c.get("sell_sol", 0.0)}
         try:
-            result, reason = evaluate_buy(mint, accumulated, c.get("snapshot_buy_count"))
+            result, reason = evaluate_buy(mint, age_min, accumulated, c.get("snapshot_buy_count"), c.get("snapshot_price"))
         except Exception as e:
             print(f"  [warn] evaluation crashed for {mint}: {e}")
             continue
@@ -452,16 +473,15 @@ async def main():
         if reason.startswith("UNKNOWN"):
             unknown_count += 1
             print(f"  [unknown] {short} ({c.get('name','?')}) [{c.get('source')}]: {reason}")
-            continue  # don't mark checked -- try again once data might exist
+            continue
 
         evaluated += 1
         c["checked"] = True
         if result:
             print(f"  [PASS] {short} ({c.get('name','?')}) [{c.get('source')}]: {reason}")
             send_buy_alert(mint, c.get("name", "?"), result)
-            pair_now = fetch_dexscreener_pair(mint)
             c.update({"alerted": True, "alerted_at": now.isoformat(),
-                      "peak_price": (pair_now["price_usd"] if pair_now else 0.0) or 0.0, "exited": False})
+                      "peak_price": result["observed_peak"], "exited": False})
             alerts_sent += 1
         else:
             print(f"  [reject] {short} ({c.get('name','?')}) [{c.get('source')}]: {reason}")
