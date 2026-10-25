@@ -79881,7 +79881,8 @@
     "alerted": true,
     "alerted_at": "2026-10-24T13:35:01.579518+00:00",
     "peak_price": 0.0008032,
-    "exited": false
+    "exited": false,
+    "tracking_done": true
   },
   "AaDZ5qoV1pRovJfam5iTszhCVrf5h6zCCUdJzDspump": {
     "created_at": "2026-10-24T13:03:18.048025+00:00",
