@@ -85432,7 +85432,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-24T13:35:01.579518+00:00",
-    "peak_price": 0.0007569,
+    "peak_price": 0.0007634,
     "exited": false
   },
   "AaDZ5qoV1pRovJfam5iTszhCVrf5h6zCCUdJzDspump": {
@@ -114661,7 +114661,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-24T21:13:04.046019+00:00",
-    "peak_price": 6.971e-05,
+    "peak_price": 7.312e-05,
     "exited": false
   },
   "ADaGZ99tXMbKygj4mcFppDTSaceZcrF1S7JaoGSTpump": {
@@ -155540,7 +155540,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-25T11:50:15.196496+00:00",
-    "peak_price": 0.0004557,
+    "peak_price": 0.0006052,
     "exited": false
   },
   "G8Ydz1MGfU5ztLDzSmgj9PRJiGcifBJtmESUA2gG7VSk": {
@@ -155816,11 +155816,15 @@
   "AjopaDD9cxEptNR8s1vgVrcjmXWboA6n9qkewSH5pump": {
     "created_at": "2026-10-25T11:08:01.550811+00:00",
     "name": "?",
-    "checked": false,
+    "checked": true,
     "source": "trending",
     "snapshot_at": "2026-10-25T11:29:01.550811+00:00",
     "snapshot_buy_count": 0,
-    "snapshot_price": null
+    "snapshot_price": null,
+    "alerted": true,
+    "alerted_at": "2026-10-25T11:55:12.037369+00:00",
+    "peak_price": 5.207e-05,
+    "exited": false
   },
   "5JiabeMpxXE2Epgmxi2eSH4KtqQmorGECGqif6LFpump": {
     "created_at": "2026-10-25T11:38:55.174658+00:00",
