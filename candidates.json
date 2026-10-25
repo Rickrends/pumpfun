@@ -112167,7 +112167,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-24T20:18:08.818515+00:00",
-    "peak_price": 0.0003,
+    "peak_price": 0.0003483,
     "exited": false
   },
   "H7VZNCBynDK5ikBS9krDJ2Tx8CUr1wxedV19ZgkWpump": {
@@ -115077,7 +115077,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-24T21:13:04.046019+00:00",
-    "peak_price": 4.737e-05,
+    "peak_price": 5.307e-05,
     "exited": false
   },
   "ADaGZ99tXMbKygj4mcFppDTSaceZcrF1S7JaoGSTpump": {
@@ -153015,7 +153015,7 @@
     "alerted": true,
     "alerted_at": "2026-10-25T10:57:56.034059+00:00",
     "peak_price": 8.493e-05,
-    "exited": false
+    "exited": true
   },
   "EuhgUA7DRjQ2JFunBLDqzHGmeG99C9VdQVHj7W2pqtMW": {
     "created_at": "2026-10-25T10:17:50.812582+00:00",
@@ -153316,7 +153316,7 @@
     "alerted": true,
     "alerted_at": "2026-10-25T10:57:56.034059+00:00",
     "peak_price": 0.0001871,
-    "exited": false
+    "exited": true
   },
   "955dXhjXe7Vk95YUVcJGsVSH5vstwfubAsv7h3ksegxp": {
     "created_at": "2026-10-25T10:27:33.291948+00:00",
