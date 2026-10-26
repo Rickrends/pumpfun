@@ -125332,11 +125332,15 @@
   "cxJBibXdmgTc1FKC8xbdPrwGXgVGbgVB9Lm7gEqpump": {
     "created_at": "2026-10-26T05:11:05.554982+00:00",
     "name": "DeepSeek",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-26T05:40:12.654511+00:00",
     "snapshot_buy_count": 0,
-    "snapshot_price": 0.001101
+    "snapshot_price": 0.001101,
+    "alerted": true,
+    "alerted_at": "2026-10-26T05:50:13.751543+00:00",
+    "peak_price": 0.001363,
+    "exited": false
   },
   "7yjkQvCEXVcRdC8BKLozHGeJyX4SC2PHzxvSCJiivUMW": {
     "created_at": "2026-10-26T05:11:05.554982+00:00",
@@ -125368,7 +125372,7 @@
   "AKGgo5MkbCBP1hSCzAVz4XH55fAyuc9svUsJaumTMain": {
     "created_at": "2026-10-26T05:11:05.554982+00:00",
     "name": "MAINFRAME",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-26T05:40:12.654511+00:00",
     "snapshot_buy_count": 0,
@@ -126308,6 +126312,150 @@
   "JAHkCTus8g5wQ2wjptNffrfHBD3b9ngEpKC5HuDepump": {
     "created_at": "2026-10-26T05:45:12.640162+00:00",
     "name": "TANUKI",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "ho5fLSHnQfqEgafnMHcxeuDwZhtbdy38ns62BuPpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Contained Wow",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7sfaGpthKEZfzbrK5bM9FM1W6XNhTYiLtxVpbauHXDws": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Stockcoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GK3Paw29U7fH8hgkExdXGDESmWHgtFJAr2fLZtpYPQSC": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Stockcoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CbJp9tB91pNsz46F7Y5HM88118pVoyfufNYMgrWdpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Beacon Scout",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FJzvuYtqZMBWBVKmp4CbnGK7thWygCZ42j1Y9gwZpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Stockcoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5QQYtRy8U8yvU9emP5yYNJ5gutkhkuP4BB9p1cz2g8UB": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Turn off the news and tune into",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FSJtpnE8Bk45d2o4BuN3HnNJeNkzQJ8WRR9iTdYypump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Scientists Reveal The Hi",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7gJ4xVMBZmg9zUsMyM1GkT77aUrtfhQhB7mpTzGYpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "goat coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "ATEpjyBGef2qjZRRXTaCWdHju777CgJJHve2fQmupump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "STANCE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AGAhx4ouPH2YWT4XvXQAhaxfqVyvAYKP6JFfL67KWxy9": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Memestock",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DrDJDFSW8rA3M3UvR6MrrMr22XDwsTivuUMNqEggm7JP": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Memestock",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3kut7PbvfvotbAkPQ1VR9k7hhC2HxVCwx2jYFrxXSfd5": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "the long tail",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "458gRfNq2s24y3g5PX2Eb1Xib6AWTRvnC7uZ5PcBo7yC": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Copper",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EhVhLUskasXX9DGXRAQAaVnrHDCbLFZNFPp86Nrfpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Vertex Pay",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4jW397YvWYKM5GppY6fkwR2ciTXkG8EWnKTcEujhpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "goku coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3CmZjtTaEdKKj9sCj44o4SnUd44SKVExpR7oB7RCpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "fap guy",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9CXBkccUkduVWr9LBS6S6PNSfr3KxiMpZMGHbvFtpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "gluffy the bear",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8pHQREsaNmU2RaKTYdppQVRqNZRhpG7V5SNx69h2pump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "INCM",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CX7MddiduqhpTTBq6xA4bsAgRYeHCkYjnkEQ4urHpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "KING SALMON",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2ct9DQbU4uesLcuxKR5w8i2AQzgT34AqbAmLAr9kpump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "FEMME",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4ayZFa8pt2CxcWmyM1cPd74r7Ztfz9fjcWmGpyq3pump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Stonk Pad",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EkCc27QUaavso3nVZDocrddNazKRhc2N5P4MCA4apump": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "CASH BACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FideXKWdRRfbSF9DzkfG5XrpM6cHQHv2MPughd4NYN8G": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Grok Bot",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2YY7i5FyTy25hiyXuR6aUEL2zeXgmQSpWx5SENGrCZcG": {
+    "created_at": "2026-10-26T05:50:13.751543+00:00",
+    "name": "Wrapped BTC Wormhole E5C3",
     "checked": false,
     "source": "new_launch"
   }
