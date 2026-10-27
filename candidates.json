@@ -1,337 +1,4 @@
 {
-  "6hKWvy4hNjx6EJB7u3oqDweTtiVNf7SYDvVPKftc9FV4": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "squeeze.fund",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "6xuHSNbuh2UJgFJumTZGDwVgvwti7ccrWg8nDapCpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Layer",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "DBGsabiYLFCK1LjJHdsoZmnCYsv9miKaCgsZJDaf7dvA": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Layer",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "95WPVw5kAGwH71SJD7t2sUM5UMHnK1J937TCzpHqbWdr": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "MoonMeimei",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "2q7gAn3BpK6jV8bthtesVa2gcPbfShDRnrV5TXySpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Goalie use",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "Baj36BGh1tcHVtnSx6TjHFiyT5UHbPxvF84Fwkvnpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": ".AiTown",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "C6yYdaukAcDcNR2u4WB4fzZwLZKpSuhh7fGJWSLipump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "CLAUDIA",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "GnTzCC8miqQ8opNHnP6bgovABoDvGzH2gaD77RpPA5bz": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "RIP Ethan Klein",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "68FonMaG8hHWSdRWEsatTAExDtowSuYsNDdGsErHPL1N": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "RIP Ethan Klein",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "BK1esFjHKbFSCTXqTLXBEkRoHEuVg1yan3mg643b2v7W": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "CLAUDIA",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "Ethoa2gjo82WrSYU2CzcJyFUjtmAMV6VhhAb1JPYYetH": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Generational Bottom",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "FDLiUFjUeM8myTR8uvS5EACXjQZE7yVuy8qhpnuiqgWh": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Gooncoin",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "BPXWxkxYjYskkBRd1FA7eJGpg13fAT811rohuZqUpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Malik Willis",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "GiWoARWSnWpopAiXFmKzM9xjdUhQCgEHrnPG19akpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "CLAUDIA",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "FX9HN8h7EbnfvBv2cCqh6mr7vXiZ8cGwQ2hM7gwVKXrn": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Solo in a world full of Squads",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "Aif3ojoSWzYHwD99nP9z8MuEJ6HiVemwLVmgSzrcpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "TESLA ROADSTER",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "6BKqzknJQmZnbGe2y9PEts9dFk2CiyBeC8mbSWPdpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Party Starter",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "E7Phco6j3reMLo7jdHoTFnyF1hyMJPa7HzPGWupkpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Seductive Onchain Legend",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "GPNhLDZNKJNyXHQmobTPQhhm6AukdAXxC6ugzrZKV49Q": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Seductive Onchain Legend",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "98daPcDNVvmtT7orW1EsxNCDSY6fWJBuAxGWu3WLTTdx": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Old Man Spider",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "93K8Po5br3nDt61YHooZN7bRvjKZ6ARGWxz7ytphpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Sealed",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "GDLanoN5K2X9oUzQjiFzJZN1CY9FKSoyPdPwidtEJ4zB": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Sealed",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "FAPcYMveMh6LuBBcz1KyvEgz2HRRMugqWrnZFANRhovW": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "JORKIN IT",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "EYTvdnKxNZVWY96JAkXNFUtsyHncDBa3YZucGCQMpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "guy the cat",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "Ed3KxbYUWQy5PHME8fNkRUE7bEe961XKh1AzA1X7pump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "gooncat",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "9L7TeJHYESZEgVLKpYJ2xYM4Dw5pyJJdtmiBNHtf5Fnb": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "No Nut November",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "FV7s3MBbWEZ5tT49djQbDAHy29AHqyfVbw68CDhnPXvs": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Rashida Tlaib",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "4HWqPsqLmKAdfysXER1WCApxbWrgvCHRTFVbGsUBrGNb": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Hank and Hancy",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "HiKRbvNYUK9tR2DJYsG4dCVrmzrSLf9ECUkDqjrS5rc1": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Hank and Hancy",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "DhMMBL1b6GhbL8AXoMkMqQvvWkQW6BS1cjkfkfJpvq34": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "the bwam developer",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "6q7zyHY2u26kXcv756DTH7jDHZBZzYtNu8J8iABtpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "NO RISK NO RICH",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "Dc94hwyZ2gLjPbjtaQv4LUX8QmF1ucxML9ghsFt9pump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Hank and Hancy",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "2HKAYWdt9KMjitNZ3oEgy6xmF7CBKX7UVLVASFWGpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Gooncoin",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "6hgu1MZBMxC3A9ud3qehWK3uYdhQFDHtSuajAAzNVrBX": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Slopcore Intelligence",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "6HMvon7ZUoJoR1bXYvbf56o47qWgGmRHqcGtYZtRxWi": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "gooncoin",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "DK4Q351RiWYGqTh9nzoot69KAVDJ7gJrbv2o7e4rpump": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "BigTetoCoin",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
-  "nKYvFQZWoRN2dcbgfjCYHyJ88C9BbTPenYd9uoq2ih6": {
-    "created_at": "2026-10-25T22:25:57.782219+00:00",
-    "name": "Spidoge Dot Kek",
-    "checked": true,
-    "source": "new_launch",
-    "snapshot_at": "2026-10-25T22:46:49.903708+00:00",
-    "snapshot_buy_count": 0,
-    "snapshot_price": null
-  },
   "7akfczharfKDcZgDD9p4d73Xf7DAfKRZRmEx58xMpump": {
     "created_at": "2026-10-25T22:36:05.904106+00:00",
     "name": "Trilili Prilili",
@@ -145077,7 +144744,7 @@
   "HBu6QcRZxGWHkwkdi4ZJkRfw44azD23qW9UQdfmYpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Frongi",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145086,7 +144753,7 @@
   "C9q7vJ3MnUaW6keEHG3t9Y2am6DAN6qe2YuxUpXRpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "LIBERTY TROLL",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145095,7 +144762,7 @@
   "25KD81kuX6nLB6PuzZ1P2r9tPiSZ67rSypopxoMEpaEG": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Dogecock",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145104,7 +144771,7 @@
   "HEoT1oFpbVnbnKYD8BVAD3NiK7c4k4CJuitmRmJ3SwGg": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "XOGE",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145113,7 +144780,7 @@
   "dw4VZKRcurzY9LF13q3C6nZuaNVBissZ95QqBZVXnrf": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "test",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145122,7 +144789,7 @@
   "Hkd9bQZAbCc7FrdE7MuffvzyPoLSapDQaZwS4ECyLzPh": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Frongi",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145131,7 +144798,7 @@
   "Ax4bXPqfUtVHMTQbCZvvn6DxkAwB1p3LrNR6Azarpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "NOGGE",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145140,7 +144807,7 @@
   "CA3dyUmpA3fWxZEmzGKQd57iY4uoHGNAxFXP9BhLpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "skate dood ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145149,7 +144816,7 @@
   "9c7y6WiBkos8Hk933A5VNDo7qN7EYWCQA7pC5JPpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Trust In Pumpfun",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145158,7 +144825,7 @@
   "HF4jYhQbMhjMzVuYZAW3ahAwaCjZv63hLUhyCpMVf2Xy": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Memes",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145167,7 +144834,7 @@
   "2dvnitvLoNhGu2kQf74xdXr1N5Z2H75wkxcD9px7pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Frongus Food",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145176,7 +144843,7 @@
   "BTYPFtUY2117eFS3fcKW8HEGfudYmjdAcYja5iHbpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Chubby Raccoon",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145185,7 +144852,7 @@
   "6wcKxaJsZ3iKoA8aKBgxyRy3sKEQK5idTt5ghMHFw8D4": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "The Crook",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145194,7 +144861,7 @@
   "C4669bWapwb2ema8KnfmpN1hVwCdLdiL6DAubBKzpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "skate dood ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145203,7 +144870,7 @@
   "664WQQkSrvWmTshWiT2yuUf3yARZQBZ1P2k7e8bSo7zS": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "The Crook",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145212,7 +144879,7 @@
   "8HkysR63xCJfuLoHkgPMjMeBD3tFRUd816bsTijppump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Holloinu",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145221,7 +144888,7 @@
   "3srmjywGtRNVtCJP1Gsyip2Y7o4pjYxnud1pqpjipump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Elon Musk SI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145230,7 +144897,7 @@
   "XmsEzG4oYPKgS5A63LLFHSdK479JHRdwoM6MPr74ZAe": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "test",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145239,7 +144906,7 @@
   "F7qwUmuVLYnptkvaCK2XAvzPgZnvKGkTxLbZR1Tqpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Hoodi",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145248,7 +144915,7 @@
   "8RiQ2VrTH1URJ23VpB8A9eqCL3YfvyuGJByGXMWQJ263": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "?",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145257,7 +144924,7 @@
   "CzhqLKkBgMRdC6ozxBfDLdUeDuTZJ1jxen4brV5Jpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Tropofly",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145266,7 +144933,7 @@
   "EMP4aXJFfBFS6UkVbfuEqZL6L1nSv4VMxHDJixvCv3gW": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Tropofly",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145275,7 +144942,7 @@
   "2NooGRkhtJNmwXtoYq3MERQwNu5eDkPZewZ5izqjpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "skate dood ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145284,7 +144951,7 @@
   "FmynBdnfhjN47E7BL8R2hpHa7fd8CfrjJWLsppzXz9Mh": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Logecoin",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145293,7 +144960,7 @@
   "9eG88k7R5LqXzzzZg7H6tRQM5ESRp5yXfEGDcK7kbV54": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Logecoin",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145302,7 +144969,7 @@
   "5mwyLLTTEVRi7G7PHoxt1XP3yrhBXke8wL1UJcFZRjME": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "?",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145311,7 +144978,7 @@
   "A6g3HD3scVKp98kkBYRiGrCuoFg7RQt74Yhc3XZipump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Roundhead",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145320,7 +144987,7 @@
   "DUwRrSb3cdPQq3fm7mvMBmUiMmoTRtFL6PnXGVphY1nf": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "the polar bear",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145329,7 +144996,7 @@
   "9gaeRimnc5dWva18kE94Yt86z2mQYbkjoc1k9Bhcpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Lusid Extension ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145338,7 +145005,7 @@
   "AbDuocTjXx37gJ9pzpXfXafRycHpgvu5rjbXUt1Q3E5o": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Cheems Cock",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145347,7 +145014,7 @@
   "2kTvrmqGPC972yC7u1BzidLpuUoSdHtN8LJi9C9WZJ4x": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "test",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145356,7 +145023,7 @@
   "BZgb39HfzXx6xUEUACmbRqTFci5mQzvDXSqdofGLpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "FRONGI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145365,7 +145032,7 @@
   "61WVgTbJh3n8uuqvUjXqSi7paZ3BdSB2UyJmEkncpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Pokercat",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145374,7 +145041,7 @@
   "EwVNPQkFDFchQtHPzKxLC5YwkPfC8hh95CTFmqu8pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "MOON",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145383,7 +145050,7 @@
   "A2pK9GASKmtjtfQ4pc5C5S8drPDm9nAuBMytbKvYeBug": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Cheemkimb",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145392,7 +145059,7 @@
   "DAXu5EZPPFntMRRGH7bN2p2hvuVbcs1nbmbGyUr5Uh2c": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Cheemkimb",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145401,7 +145068,7 @@
   "CeencUTnHhNX8KBcr2TkX4VQTN9sUEncb3whdwF8pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "ROGUES BUM",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145410,7 +145077,7 @@
   "Hv5pshREGYeSg5zjJi2rgBndbwDZttz9d3ZFgynipump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Garlic",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145419,7 +145086,7 @@
   "FHzHUDwV19Sbmajp1mNgjWZAo6KfiJVzUo5Qv4Xmqm1X": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Disassocation Cat",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145428,7 +145095,7 @@
   "6HMCuZQhn5vxapng4S3k76pRGR6Q4Hy6ANhdes6RBHJ8": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Baton Corporation Ltd",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145437,7 +145104,7 @@
   "36iqsNvq1RiBL7ScpapxW54viJFZMrUkCR6N26adpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "NOGGE",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145446,7 +145113,7 @@
   "D5LRbdrDxokUHyjtLMLPoWBkohkBRUZtdpYqeBvKpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Pocket Museum",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145455,7 +145122,7 @@
   "5Zw2kCrWx6mdFgmMsY5thyaVbfGscJtDoyjQMhRJoKN6": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Tate",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145464,7 +145131,7 @@
   "GAMnAtKMne9RoPr3zqkASygg1QEKx5xpHXg9TWNrpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "SODI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145473,7 +145140,7 @@
   "9UaFubtsf8BSG6fx8k3gx1gMHMbsefRicAfsxoxBpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "SODI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145482,7 +145149,7 @@
   "UcMcPuBU5nGxMq6GtcJq6P4GKCuuJw4X2ZjNuoGEkpk": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "test",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145491,7 +145158,7 @@
   "ETaRb1gzoYApte4zge5BSXK1GU8rfcGP5oYr77FkZsaG": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "SODI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145500,7 +145167,7 @@
   "4Wf5Gn2CWHTzUDkDXBpQFad4iKqE14ELqvZPFtdoiNP6": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "squeeze.fund",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145509,7 +145176,7 @@
   "9hfdsmfF5wj4uA2AeNFS193r1MymaeVqaDsAK7EGpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Cracking nuts robot",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145518,7 +145185,7 @@
   "7ZsDBNtjKmqbnLHJkoXvw2tPk5HCLsvLW9rrJDgxocTH": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "SODI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145527,7 +145194,7 @@
   "6SarKsVRYJv9Gr5sWQSkcjUMyzLX9BirjC6v4bV3pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Elon Musk SI",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145536,7 +145203,7 @@
   "CkYvyvXSge4SYiiBVr6GRcxehFBv1yAuni1zf5nLpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Platypus",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145545,7 +145212,7 @@
   "GwdqKMLpc1CxELkogXsjFwX6TnwfzHEgBxGm1Mp92uTX": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "INUS",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145554,7 +145221,7 @@
   "7CK7KQ36Ns2GhcLpxMQgGMgwsWeJLdyFLQ5jRFUqpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "skate dood ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145572,7 +145239,7 @@
   "2D5jkufpiFVdxRDtT7ArKVCfU6zQLD4vQVdH7VMjdZVf": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "PAPU",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145581,7 +145248,7 @@
   "CKJtzXDKxPMu24pK7qi9sRDJSQVjVZ8GYd6bhjm2pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "INUS",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145590,7 +145257,7 @@
   "FNFwnLKwdJ3Arau4QHmjtqeARDVmN87KrLH3V8zjU1uF": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Pepus",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145608,7 +145275,7 @@
   "4ogEpGtnr3xGzux4h9QCK1o8hHqwBedn6HUCWMz6pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Voxel Otter",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145617,7 +145284,7 @@
   "47pgGB4UZT1RNHYn2JEF3xocqaKaEZboXf34U11Spump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "StarlinkPad",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145626,7 +145293,7 @@
   "2iGNz8PUSf1FGL9rXnrB85fphXyUV1TF6L81qum8pump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "skate dood ",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145635,7 +145302,7 @@
   "F5RZ1qHwv9agXa2T4aH1awccuQi6dSnYYji6xzfqpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "The crook",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145644,7 +145311,7 @@
   "8RpgsWg6zZ2xMnk1oMVNpZoXzPC64FgAuuK7ud3hY1XW": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "PAPU",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145653,7 +145320,7 @@
   "pQ8MPeF8oxd7M9Q7duA9L4SuHf1SMQrPFLwCEzVRH44": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Orrerine",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145662,7 +145329,7 @@
   "xvFjiQms5C7Q17e3K1ncR8sfRPxuY82YhxnrzmYXcHG": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Debtcoin",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145671,7 +145338,7 @@
   "8mUEcuwAg1kQSkFbaBMBgA9uuwB1Weg8jXp13Zb6Y77U": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "test",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145680,7 +145347,7 @@
   "BeN6BKmWJVNj7SU4VSVfdYQMtL927QFsHvKbXvacWkkk": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "The ANTI AI Penda",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145689,7 +145356,7 @@
   "8NypdJD2ag61yC1WVXDY744U8eqaw9VGXKTobm1opump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "OffRail",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145698,7 +145365,7 @@
   "DW57z11YH9MyUFhCftHRQCkRGJ4zg2yyFKMhJizspump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Cheems Cock",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145707,7 +145374,7 @@
   "oLU4A9DXciqWFSSNvog1iVQDBpVKkzkR4EWxfvdpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Sniff",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145716,7 +145383,7 @@
   "Cv4Et2rcxLteXB5LaUKMhyRaR36kUdrKDZQRks7qX5z3": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "Hamburger",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -145725,7 +145392,7 @@
   "C6rMWaqjtVQR3fGP98GLZGMaaTxRPXCy33V3zFiqpump": {
     "created_at": "2026-10-27T20:50:14.697573+00:00",
     "name": "PAPU",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T21:12:28.775896+00:00",
     "snapshot_buy_count": 0,
@@ -148533,11 +148200,15 @@
   "DtcicPCKTKeAh7TDEzTym3hXeoHAoMiBdYJhMYxZpump": {
     "created_at": "2026-10-27T21:13:19.893346+00:00",
     "name": "Someone asked AI to build a game the ent",
-    "checked": false,
+    "checked": true,
     "source": "trending",
     "snapshot_at": "2026-10-27T21:34:19.893346+00:00",
     "snapshot_buy_count": 0,
-    "snapshot_price": null
+    "snapshot_price": null,
+    "alerted": true,
+    "alerted_at": "2026-10-27T22:28:51.936926+00:00",
+    "peak_price": 0.0009437,
+    "exited": false
   },
   "E1VyPBm5nQxJoAypPkMy8gKm42LjCyryRYLce1Cupump": {
     "created_at": "2026-10-27T21:46:02.159731+00:00",
@@ -148722,7 +148393,7 @@
   "CQTssrASotA6ZLqPJM11pFmf2ahz9NPPaV697ZMhpump": {
     "created_at": "2026-10-27T21:46:02.159731+00:00",
     "name": "RETARD ON ICE",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-10-27T22:07:41.507244+00:00",
     "snapshot_buy_count": 0,
@@ -150271,481 +149942,721 @@
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4JdUSm1JcLYhiRWKjrcqXVHMyLxUuNzpVt8sRJSipump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4odJ7uEKkBxJaNRtAsHp6w3ejX3b6Jd9LnK4Xbcnpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CUF7gyWnt9QBLKXzar8oTUNrJqM1vNSLwtwNDSjkyTLB": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Trust in Agency",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "BpXdhy2yJ9zPYexf76aC9nxqNTtsg1Dxen1sWCF9LXkg": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "chairmans",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "RRfSsioECQmu7bqKLWesKJkxMm1BMW31Ph1EfJDmVLH": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "chairmans",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "8MEvDYk3rUGsMLJTKaZzVxca4MGHYWRnFeFWDaGkpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "wrBC8snEDJ4wqw71Srs7TVAgdmp5ouucZS3q9vPYzrr": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Baby Frongus",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "9naw65hFzH4b4U2oQKMU3jTAJwWGeXZuZW5B9XCpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "F6My1621ue6ip85UeqxyrufC7fez87yU9VpTuRutpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "2gbeRzJQ62U68GaCFuP1XLAZmqtf7W5DJB7k6GUUpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Bfdpqe67rJ16cJUxv2p5gwfcADbtQUGmBp3brk6Jpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "3FjURvmwveY5ykz3ogANQKEYwqdRtmVSLf1RFPZAm8Jb": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Fifi El Ganso",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "A8XzsjPmiJNRwuEtuinjkcmBaTDMskMHu45umZEgpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "ApRhqq6vHYQxz8hVzL27TEbsNdQBNYPKFxQnyzgspump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "HkXikTVc4ftfV9mBtuTFVw4jHNrSGoqYhNEXC7CGpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "8naFyH8G2aVRaRemdq7saGqktk3KMHWDEBUC99pVpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "GtizVqWnrbhrpw5FLJFCQKTXaqrpQ5YkRBDN6xY8pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "6cs9QC1zk5sEZY5umzmpf37SnagvGSzEy77skATWpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "9ksHBGwnp7ov6tBqEAkR7RZqYn7KZzBvXVZiXXAXpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "athena",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "AMnkLSHLK7CqwBgC9S5qqw8J5usgqmGF9Pr4kz4Upump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Slav monkeys",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "BExZht31YN8EvRUn4V5EL37Ns8yWBN8yGTX6JXWvpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Ant Colony",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "2JVmZnsHgZicsx1iJpmag26RLqq6iUc5uNAse5f74A3F": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Ant Colony",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "2PMLaLQBm9UcXUQdV5dEhnpisKBs7rSoxt9TVabW8LQP": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Save The York 9",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4jQLUBYAJqirSVNnEQ3e2mhL5EQwBquXFgTKZLPCpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Rollcage",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "BReWdEmTXmuYxBXcdVX3ihVprkSMLKSJZjSYL7rEpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Quant",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Cjfbw2r7p3ttnckFKU2MJxG6SxkPZCuDRhXBGU9hpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Quant",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "369dz7XHNKntiKjzbsrmfYhZtB5dshbWxiW5epSF7pAX": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Money Spread",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "5bHhzV3H7MEbzrvny1KAspUdJhjMbF16hN5y6CJKCJoR": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Save The York 9",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "C9MpVAPyUgHZwFz85jRwJJMpXf2KvoTEyxhtBsKtpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "eyes wide shut",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "BMhsNDaEPWfGVDo46uHE4hTt1bFGgVCQCdjYYwTTW9dP": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "?",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "AK8smqiGgjsvF6PfHdmw4ZSwzzjsXPa3pmUsbLGspump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "3nNgMP4bUqBNXpihu9ahv4kZgcZSC5FpdPmo36pjpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "jQm6vbdEUShBh6YPj8vqEd3UgpHNYU59ybRfL1epump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "6r36pmE9RhfWjmJHuHVuR9h9jkrk4osxzb7TYujapump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CBon6SbpPL7hYS8EsghweYfHCo2N16dFjShs47S3pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "FdgYZ6iQSvSbdQfe2rh2zag9SdRJxTVEWdTzoHbSpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "AkXPxCCPyfjYnVCgyvyt2BxXnJbQ6hbPPgawBfK5pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "GQX7ELhDxKPqjXPEMEpJzs4hAH7geUHvNfqWkUntpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "6pxnNVGFRWmvNCu2mcoxQHy5zartwMF4wk9VKY8Jpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GO FUCKING CHECK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "9MvPn4V25pYwZGsVrFYSRZXmJU8fGn4RNNb4GXyGpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GIGA CHROME EXTENSION",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "C4gGi4MfgYydVRtKeoMg7v6ocC6H7NRoiavfFaJHpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "GITANO MUSK",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "DmYYwGBExws8kRWJw266zcCfeDVzcx6tHKcsfgf8pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Elon Musk SI",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4cw1GbDc4sVWLf7oD5PxfFnMco9eFYoiu1JwasYXpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Scammer Carti",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "95hEu3fWpFkFLQ3jxMimy7Tee8T5Eg8F2ZTcRWsjpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Cat & Fish",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "EArQiykZoCYsNZD8ftW9PsusdwgiRH1CzdaLnvGVpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Hu Xiaowei",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Gn3MPPRfpUTWfaMN8whodMpkNRCerWrMJLndQB9GA77L": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Cat & Fish",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "6WyMLsEvBGaddqm74ZjUZLt6kSSFiYZj8gXtbw5YHTYb": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Hu Xiaowei",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "q9CfBTqTcJosdMtpKeFJKZPA5RxE9GQnHKKpDsmpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "MIT",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4a1Aaq5urfkMKy5tKGvJutMcer3QS1RPxqtnY9Ntpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "uspad",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "GsGCZ5pcNSasgUtuJnCGzQ6Lq42DG2oDLQMfyAjQpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Milf Edging Massive Erection",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "BCpEupVZTRg37i9LvVcBZ9qQj92quzX3W4HvjEGMpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Cat & Fish",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "97HtM6mmBLacFDm4MDVqgd9PWUN3rqLJhbc88Tqs4zDC": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Milf Edging Massive Erection",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "2rKNjaURDCgX1kxPaN9UpKP6G35Srrqgv8T9TxiVpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Elon Musk SI",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "4fBjqZrRbkmgTQQy94xjFBQXrRr2emGHYUBas6Sfpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "FWONGUS",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "33RbJ2FV6cHM5NB8etbC4sGB2tWcQFX981oBUDpxpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Orbtopia",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Dv6JVdsbnCdJwrpRGPp4Ra9nX7bpBV2hvcghETRjpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Milf Edging Massive Erection",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CXK7X1eusVBTcakiauxCsM6uKj4bpg6cAsB2xwqtpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Gus",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "E9WLUKjgPCa9Hrv18rKnp7sNVEjX3ZjHvg7mwvrhpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "justanidea",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "7Z6oDDyfTPsJMzMr2annTHgX3zL4Sjg4rxhRRAtcpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Gus",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Bi4mYJPFDavyea6KwBNLFvFmejuf8Rd88YT2apCDcpNJ": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Ruben Gallego",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "GZm1F3Yxx3WJrtjAVgcUXNtGD8sWLN41MRZnrN3spump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "PandaPals",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "5rQ375yrHaXupdbcCx7HKB3cLTAffAbtHyy8PHcwpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Algorithm's Pet",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CmXN9qwjJk5Uc3oK1TTHVyvBWiwDiq94T4mswvL4pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "low catisol",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "DxTHPZtz6CQ1QSNm28eYkNoSNA9m86j73wAau3H7SBxm": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "drugcoin",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CNLDkYfnVmF8duqFNJvmodk2Rx8LiMq36urAeDBJLtxJ": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "peptide",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "8TT2hiR7FNdYkoFTZuMQDWsFgoui61ojSazRViocqp7": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "the higher the funnier",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "DBsHn923fL1mRpkU67eSrBGirHUEtFWiUKUSSmLxpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "drugcoin",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "9Jx4YfCGpamgJjyrf3QUQ3qYpPq8MaoMdst9GZvkZQzA": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "tgcat",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "7wtJfv5efimDnxmSFkz4wERd9ETD4B2RcD3Z4gATBHUc": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Justice for Chirayu",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "F9rcW6YtcwKvnnY33CsADx9AgPCSurcJf4qDS2sZG9M3": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Justice for Chirayu",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "Ceo4tmPKFKbhYdnF9J6SdHiKQn8Wp6BfpPM6kmhXpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Elon Musk SI",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "7Gb1buYnYk6FqXC96dCSBzj3aDPXPX3TehGEdzD9pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "the higher the funnier",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "gB57o8TjunZmvWoHT7vvk3nEy21tkLyWpYiaNYopump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "LARPNETICS",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "3t6Cjz5mMbKhtN2eRqeZJmasJ3KCa4f1UkqHxtazAhfL": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "the higher the funnier",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "7KepovJhb5BGxGdSKADL9Ac5corebnAzKVC9bvxWpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Doge Cock",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CNrZM8Nss8j3DfxeJUzhkWAk3dhk7hDhq6buJoR7pump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "The Pumpatar",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "3iYxSxGLb2nwHzaJFNUaSgjsyHfmKVkTZfQA8Ugbpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "StonkPay Cat",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "EHxyQ9LuTxBtVxHdvYA8otxwyeifdB6UkdvhYzqmpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "Stoned Frongus",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "FHXT3NueJ3oC27cgbFapYwW2WAgDBZWA84DVkbZEpump": {
     "created_at": "2026-10-27T22:07:41.507244+00:00",
     "name": "The Last Employee",
     "checked": false,
-    "source": "new_launch"
+    "source": "new_launch",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
   },
   "CAyk7MkJStQs7L51inRYidH4rDpy8zJjk1QN5JwgQMoD": {
     "created_at": "2026-10-27T21:46:41.507244+00:00",
@@ -151095,6 +151006,255 @@
     "checked": false,
     "source": "trending",
     "snapshot_at": "2026-10-27T22:18:02.185979+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": null
+  },
+  "4Fvgh75b3UCizxUjULawSJCXvGFHuf4UV6rpXktKpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "NEXT NUBCAT, MILLIES CODED",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4jzEJRMPqWrdX3fC3y7ZFYMHH6F3ojZgCUibKM8Spump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "LiteDoge",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3f97prrKBQaSyPd6KR8gief4fe5jQUQTAexiYnBppump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "THE HI",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "88pAeoovzozjvKR531N9YhQyzMs9mQEJvPSN42q2pqsU": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8bSteP34KXaYcVSKGZ59yj2GZsk3SmnmUw1BMhGjfT25": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Trader",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J8E2e6VWfEhf1mgANfMTP1rVpPD7e3NLg39WZD4yi9Wv": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "i love the meat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5ZEXakeCB5tghNRRVZEZVM8r1hr9pxV82BPeqGQvo2Nq": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "i love the meat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "KaL4Dty996oZc5aHETc2XHqdwAp1ASrnwtRfjTopump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "LEGO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7vDTbd2HTbT3Zxbfm4wKj3B3qU3nWi4EKirUKPsE1jRh": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "LEGO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6GB1oHnXtUEwsCchQerq1XM2Q6v2GXmS9W8BA3wUYJ1m": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Trader",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9bfy12JxkunzXbuBvHwquzd4KR413aZyrfzn6XfZrEv": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Trader",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5M3uhhoqc7a7anEiWW9QWHHc6dE7n4geVeZh7GPMdrvj": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Elonhouse",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HUMq6GmWwhwCbSEDDmipuy2H16mA5yMm3n9BcuLtwjQY": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Trader",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "B2mewgpc9MNzbN7d3PZDTnmo5oKFfMTvHSZov4oQpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "CEO CAY",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GNx8WeGzKhc3zCqALyGouVqZSFJ4Wu1BFZJb1jQF3fF4": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Actually Illegal",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "B39Yas1PM5k2z9A2XU5SSXk6r4UjwQjy7nScX6Xc64AX": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "The Antarctic Squid",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J82fvShQrZhRVeD5CiJcNurSCyiHoP6EDa6Ec9pfpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Cosby Coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BJSVogn6pmx6fMpR7Ed1LEZKDwbAsUZmaUAG72REBXN": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Cosby Coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CgwSRbiumPopW1kndBu6cgm1kZe875bHBFBkpxF9pump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Mitosis",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EnPYmFHxv6yFzSKTiwCDCYdLtXFbvbefRx5YFiDnpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "GIGGLYSQUID",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7uy3p3mGQo15PSFs4MW8nGn7zWyVoenC1FEvq19pu3yQ": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Baby Frongus",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6Drd9avqEVTdRHSGuC6bYu42GCuiCKaEzfC38wga3MhE": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "We are all Bill",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HQdUJq5GYoJz4Q44okNR86kXJBDWMdJyZdpiug5x4ubk": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Pastel Chainbeast",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "B69ZLgzWPKqCfGtUGbhTQvFYNL9CdrofFqyaqFhMEBsS": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Trader",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HukyhM6xL7AqxsvZtJY8bSFny8eV94XipkjHjvU6pump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "SENSITIVE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "H1JYxvL245g8RpjXZdJTCwU7nVLp2SVbEXXkZwAfEtia": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Fighting the fed",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "KgCG8okD2WL3YQk5rYSQmwrqTGjiRd8gmmVaKqKpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "NEXT NUBCAT, MILLIES CODED",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5peuU5ehqdrx3mVhp5gZiwbtA4id4NFXTB6trbb4fz6H": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Shit",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J4EA1MXhQXu1aAnYs8kCm29N2KsE9Yetwjj2MLiQpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Swift Drone",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8w4eRrhuXiWpVoQ6bwm8mpPg3oqh28nrqSF9ew6ppump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "CUPS",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Hzsyi57qF3AVn5Tikycugasjk7JeLhzU6kcXnpBHU2RG": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "FIGHTING",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AtT5KGqarXJd3cS9RGJCtBQQSrmK4vGt2pbwDLis3rQ2": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Retard",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BfJfDVNcdxZnKCyec9gn1ttif4LawGeFj5aigAgqpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "crank.fun",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "D6uxa5cfpbk7fPn8YHrLLTeRaSj8Mpzkr8V6xkrvkqpz": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Shit",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Fo857WCp7PUZMtjUWt1DUo7eu3MaViQ37gL1HfrGpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "MRSTONKS ",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EsmVE61fVBbXPhJky1sLtpnXTiWBXjh1mf6LpneSpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "DUO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5iX7hYrMrVNwje2rHfSr8PJ1Bx5jboqLET4TaRtLpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "DOQE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3jkquqTb6R6yQPbmRiFdn8vRM9kgfqCZdeZmnPCU4zZP": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Attention Coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6NnyhS5PXKVP8VGq7ZgD1GRN2zrCM9FRUntiRFXLpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "Unlisted",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GR31RN4keHiuVQ58maQ3wb8zoSVsyR67R6kpibrpump": {
+    "created_at": "2026-10-27T22:28:51.936926+00:00",
+    "name": "GTA6",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2nPPKzFCYDZLqHxJJdFJA1iV2V4ZqV9K6z8qSiYTpump": {
+    "created_at": "2026-10-27T22:07:51.936926+00:00",
+    "name": "Frongus Maximus, the battlefield\u2019s bolde",
+    "checked": false,
+    "source": "trending",
+    "snapshot_at": "2026-10-27T22:28:51.936926+00:00",
     "snapshot_buy_count": 0,
     "snapshot_price": null
   }
