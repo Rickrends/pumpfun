@@ -135977,7 +135977,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-10-28T22:23:06.062914+00:00",
-    "peak_price": 0.0001612,
+    "peak_price": 0.0001613,
     "exited": false
   },
   "DtBatQsrazRRVp37UTMQH7TnXL1mT2qrJTj7PB9Rpump": {
@@ -143198,7 +143198,7 @@
     "snapshot_price": 3.684e-05,
     "alerted": true,
     "alerted_at": "2026-10-29T01:14:14.249597+00:00",
-    "peak_price": 4.939e-05,
+    "peak_price": 5.022e-05,
     "exited": false
   },
   "2c6zwy5s47YKL6KFDy5qY2RVELvBVUPgM6iGyA68pump": {
@@ -155671,6 +155671,126 @@
   "735VVFdUwe23c2YpUyu67HkWS2CnrW6AZSW6ZxCqpump": {
     "created_at": "2026-10-29T08:10:15.887493+00:00",
     "name": "asfafsafsa",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CBDB6aXCWKarWqjs669Da1RLmAtJQuXZcD6PzuV8pump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "ROBOTS ONCHAIN",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Avj1EfFUJHurZC5wh8pfRceWN7GfwoXwiib7cusRYSpM": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "ROBOTS ONCHAIN",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5V32i4vWwqZahBDUmeXibeBFHVzn2x7hjTroH4mtpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Zurh",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5bSg7AEUcABZe4wGmusqDsBSoGaeVm9gxgwbmTDE4q4s": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "justice for lowkey",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "B3ATfwwNoR2TB7NEEQB4GBkezeuXw7UaSstp1o4Mpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Over the Counter",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Ac6PLXgeP3eK1ak9CyNR8actDgA3vxBhRq1Ao1frDajq": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Chilloween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BexYZm2cPYrxNrNobicZdhKBhkLs99vCgYG93s58kEpi": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Chilloween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FwVBZc3jrxjB8fzgAAwsAupa1cgAK1YCUjWNB1vQVAhQ": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EWcGTZ6afYhooBrYg8PvCJHDT6Dkb9X715Ryevaepump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "stonkcare",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "JBCzPmaaHiqth8uxqWbc3J6vMeHyRvaML5MRAAVDpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "LMAO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3JyTtWhGwQ27kfQqVdizDWKgnGReLo8zYyVN2V5Npump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Travel Token",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DrqpBDEA4VbEEAV8SQP7Rhv5uzVNtQ7515eKWMwgpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Cyber Crime",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CWRfmgChVz9YxZxKhT7j9saR3zYjbQSeW5CzWeK7BiLv": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "\u30de\u30e1",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CHiPJL6CWDCQy58pDBuzNAgW4ozhqVN81K8wiCJPpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "LMAO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CMsacCYtAkmicedFYHEVnWtvhxBoVFA5Su1Rfo2GtvBq": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DYWaok6Q5hBcyEheRV2RNRBSd385tmAcjVmQksb4pump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "Rocket Socks",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HkzSAoJdiixcyeW2tWxjDKN2P1HH4oTp9z3GTkJSpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "LMAO",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3CofbRYN9sHnjmsSDxp8EU11Ji5Ht2s3JkjA2h5dqvvr": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6UtLjZNKZHeJYWJuAEABmSXzNvZjon13VKGbwCVLCi3G": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4b4oqC27msGKfhQnvwGapFGjsX5byWsU7tjTWQbcpump": {
+    "created_at": "2026-10-29T08:15:15.546834+00:00",
+    "name": "A Simple Memecoin",
     "checked": false,
     "source": "new_launch"
   }
