@@ -104404,7 +104404,7 @@
     "alerted": true,
     "alerted_at": "2026-10-31T10:45:15.555336+00:00",
     "peak_price": 0.0002715,
-    "exited": false
+    "exited": true
   },
   "3kmSju6QerWJDNFrNrtMdeP9FM1QeiSt7ewGZRiYFQXP": {
     "created_at": "2026-10-31T10:10:26.169675+00:00",
@@ -104668,7 +104668,7 @@
     "snapshot_price": 5.916e-05,
     "alerted": true,
     "alerted_at": "2026-10-31T11:00:17.931309+00:00",
-    "peak_price": 7.019e-05,
+    "peak_price": 0.0001016,
     "exited": false
   },
   "Hy8w5fj2HVcPmS2ZnbMJuQTqyGzTWgnd93xMNJFgCMiG": {
@@ -105805,6 +105805,174 @@
   "GzTcXtyY4XVsSMhgm1WNt8V5eEvGTURV3SJQF1mBaJQN": {
     "created_at": "2026-10-31T11:00:17.931309+00:00",
     "name": "Garrett the Apple Cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EH5noKW5iBaAE4d8MHpvcbCAXVDHCP6CSKmaDohKpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5N8TZACRT9S9ov3YBnTLJmyv4qeSaZq1wZasm8xUKjgr": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FSiLyQFCGXjQoUTb8HkCkcBRZaoa5YFy7MdtFjU874qC": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2Eri9FFthy7v5wq5W21zenicZXUb3m7nJNW6oionpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DmSqfjpguPJhhs4aeZwbNZFskvy1FLWv79jQ64kEArgX": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8yBu4CygSrAQpF515geDdi9ze9WfqHK6f179X32YXLNP": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DiFaj2babfACAsC2V7wNURUw9DwVUKwvB3sYT5Ctpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DLDSqPX7Y7TXMJqPMwtRpc2g89PiYt7E9bGg3UgyyZLo": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3zGR122ygUMVktajuqRzHiLbgsrvoWFeM9TEWarYpo5b": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "StuckInSitu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7bth7Nf4UCQ62oAv2yWJWpQho5nSosDZSw9pzrLvpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BwWFek6QtKyn3sxEudivJh73sDJeN5fLSh8cPpuSHjz9": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Bu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9tCG337k1PCaQZ6GQXQrMgiWafuPeM5wqJFUD7Fopump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Winnerta",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "D15gNG8FLmr7BS4kNhzHFPBZmom5SAW43NNzVwxJpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "KoreanFlare",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Fq968bvwDWFfYyf7d4ocpXw9ACKqSGt37G1uHTermFRX": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Peanut The Fawn",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GuJ8jQxAhxDjdyqjGwhRLxyuDA6ZBTsbP6kHg1tDpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "D48SpN99y1hXuUDByDHAMHwGU65c6G2vcqbDJjqW2uqX": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5bHdypJc3UcchnJnhkGF195BuLtBjsEjwuX3efLxf2nf": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "ween",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2kTtRCsmVo8B3w1pz7z9d2SSFhDttzgaQWiRTwbEpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "BCD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8UgQit4GH1TWFBMGdnvinMZSFCCeWKcVMDf3uGSWpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Test1031",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9vyumV3eVfQc5zDPi8iUVr14Q8gznD31mjY5Shdtpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "BCD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "C3rem39iu1RZdDwvG8Xn9BoQNLuRVMwzftvTDcg8pump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Peanut The Fawn",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4C2YsiZsc112yJzRV4DuXY3t17GzeY39exWQHLN6ufxT": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Peanut The Fawn",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "89uevpmJ9jgbo4YbxE7p5xoBGiStA48uS5D1octYke6H": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "Peanut The Fawn",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GvTdgzuPZp4AyNkmmSYcv46V1uT9fRX32V6wv6MJpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "BCD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DuMwHXJmedG7Z5wJtM56fm2eTLaXnNNTUcpggDgLpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "GANG Anonymous Cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "gTAPTg38eP1t1SqdpDchR6m6s8vnJaSjQo44oh1RxtC": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "GANG Anonymous Cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BxotaCCTjCwKs54DBdmJk28a1hPUJSs25tNfQWgtpump": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "FOUNDRYPAD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "781KuuBQFfVcVuqUymGNAJWPsQXcGfEUemGc3bVGnuoR": {
+    "created_at": "2026-10-31T11:05:11.072340+00:00",
+    "name": "GANG Anonymous Cat",
     "checked": false,
     "source": "new_launch"
   }
