@@ -84760,7 +84760,7 @@
     "alerted": true,
     "alerted_at": "2026-11-02T17:12:10.085634+00:00",
     "peak_price": 0.0003592,
-    "exited": false
+    "exited": true
   },
   "HHmPbPWHPV7mTZ1f1Jpd3TNB6DSC9Rw4CJ2P8Z8FDHyc": {
     "created_at": "2026-11-02T16:22:47.040183+00:00",
@@ -87332,7 +87332,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-11-02T17:45:17.671871+00:00",
-    "peak_price": 0.0004775,
+    "peak_price": 0.0004943,
     "exited": false
   },
   "6sLsxFj1jk6ds9DEYMbPXtaCCDVQmvpw9G6t8x9fpump": {
@@ -94378,7 +94378,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-11-02T20:08:33.637119+00:00",
-    "peak_price": 4.144e-05,
+    "peak_price": 4.276e-05,
     "exited": false
   },
   "3VW56opb7gsQmySwRtL7fPG1bJ43a6yrMQ1wqsHFX5iq": {
@@ -94868,7 +94868,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-11-02T20:18:59.700573+00:00",
-    "peak_price": 0.0001745,
+    "peak_price": 0.0001911,
     "exited": false
   },
   "GsrMNxr5bsEfGBCKFy5oFLuNpfFDS1oTrCzT3TpYw985": {
@@ -108187,6 +108187,252 @@
   "4EyM4aYCF2E5yN3sVjXcxWRZjWofL9arFvePfJppecz6": {
     "created_at": "2026-11-03T00:30:11.477084+00:00",
     "name": "The Top Floor Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J4N1Y2TvuBYgPr6Tkhxyuu7n8DbU15sCYUVR5f3iM7k": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "doomcat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2nghQtAgrSsLAEQ4oPascP4gw3Z7hYUycnVS7ARLpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "NUTLOOP",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5YVZGk7JcVmeCqSxYuKvF1NDX3tmFnHGQ4HFnuovpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Top Floor Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BrFYy7RtEF5XQaRM7VejxikkNf8hcFVocMtAgP86cLiA": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Fable",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6FSvT35ctbudSm7YBHuDSQ3x4jkoNkQ8WXzpgwyZgLhV": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "NUTLOOP",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J86JsVcfmZEZoJggq6KfEzpPStEtzA1Win2JwJvypump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "FRANKED UP",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "wV3tjMAUG4srDvjXnrmAbSjhbHHSwoTnVqbBtj6pump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Black Rug",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HJZoYA7WSdhR7QTDqckKmUKsnGDgYaFUM1uBcgyGpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "BULLY",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9gGj3CBndy5MWfGPyVyNTWEjXLtP4j3kL5FPRMAGKFuF": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "FMT+",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5Ghmtbog7Xx7AYGy1gMycwsgS62XqHeUzn6MjgrEpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Ripple",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "w61c65Uczr42EGLLNb9RF11QYBJ3dbo5Wfxz76vpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Slippy Banana",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GpaMpvpjHwpkSxYRk6PAno7dLPE5kirXZPdXwrZRpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "BTCminer",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6ZcUVDJG4QNopARrqS25K5WQZAAkjUGAPYvRomcmv7ek": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Promptcoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FEwmpWoicxnhq9JGh1SMHxE5scieZfqrxN1Pdgzapump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "goyslop",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6TJxXS5ztj3qAsDv14oEMwUVzuEzfdegZZHn1cpZpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Freaky ah",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EuJj5iWdxS2BnhmKCXsU6Ltugd3eVBmFAH4NgCBWcb3w": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "J'ai P\u00e9t\u00e9",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GszvDRo8s9nahAWVaXHHwK6UtPe99QB86mfbkHippump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Kumchi",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AAaCojRp67Cm5FmAohEwRxuAUZFqKtnQNRpLpMuQpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "BTCminer",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5VXrjpriPtTeTFmMvZhy2iivzE1xCqVJvvfKD37vpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Latch",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8qkqWmnFek8x7Jpet7F8RjfKJt9DRpAs2A4G8zqspump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": " Claire Wineland",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "72yxYmhLgDGwdyi2b9GjDynBB6VuG3kDxNKqDbzXh5bi": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7gJ5JiFVSs3ti4JJcLMxvDwbddBvgWSo4NmyMKJ8pump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "dog wif cap",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5DnUongKR9uMxefvQrES9SpPkzQBsQcMszHx3boopump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Top Floor Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6ebVTciqZndcy5VAwTFF4wVPDM6t2mixAk7UQvk5pump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "No Nut November",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8sysSLMNT2PU4MpVW6Q7RWVqmzhGQVas6LECnwGjpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Hyper Desk",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CtRRKdT3TLAjgpwniQwuFdQbph7yXvPQRnyVr9sUGV7p": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Top Floor Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GX1dJcyKtePTS7fNS8CPL2AUwrB4Y1PT6uxmKNHPFFfW": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Hyper Desk",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GeR2PchNSdWbjr8vEr7vtJc24PWM4vkSw5HZifTiKwgx": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "No Nut November",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Ar4xPKMh8jMTAy9GREKAaPJ3cEszmpAHRofQAwePxsjn": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Flying Elon Rocket",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5rEEHvhab46FTNoAvjKuAYa3zGdgHzmpVDMeQbgSpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "the virgin mary",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4uqrrFVtYz1Nq2SyBiFB2SbPHrrNZVZgCrZijV7Kpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Anakin67",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "VqLyWVYg4h4kZ1kHWXfAAwirnXoHpwYHxhJF6zJpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Official Barron Trump",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2KDEMXdA7YNTX2Ywo5keVBtrewfW4vYpRvq9Z1cmwxMZ": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Black Heifer",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9MPHETrc3ujpj5giWNSYu12ymALVCBC6r2LYJV7gZDP5": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Anakin67",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3gxchwR765NwvrJbMHqmj1TAt841ronnsb2rYdssv4YN": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "G6s6zVRQhQKmmXcpgxHKhDZgtbtJjYQNEcUTnahv4fKL": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Behind the scenes",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AyQtQYg2CvXxn8Wg3UBV4BAJkko2f5xa972mwjfwpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GEVkYiZ5PzopecBGEKNru4qQ4RTeP4Lvd7dqQ6iapump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "Jeet Quant",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9VAMokytQFV61ufurKHpCaH6BKvKQYsjpBz24dYHGhWn": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9GGKzGLnmAgFkFJpFG2YAc8WG4EgM2k8VqU7FHehpump": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "The Top Floor Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "C6dGkGnKMQ6b95z16FsDvGACCUdRsL2MhxLTrkqxAx9Z": {
+    "created_at": "2026-11-03T00:35:12.801267+00:00",
+    "name": "BINANCE HACK",
     "checked": false,
     "source": "new_launch"
   }
