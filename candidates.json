@@ -105258,7 +105258,7 @@
     "alerted": true,
     "alerted_at": "2026-11-03T03:04:44.799289+00:00",
     "peak_price": 0.001304,
-    "exited": false
+    "exited": true
   },
   "kyweo9AZm1hTmJFmor4qG8KPzLaBQSZM8wtbKgdpump": {
     "created_at": "2026-11-03T02:54:35.828685+00:00",
@@ -110280,6 +110280,186 @@
   "AATeLkzXsYBBzU8YwjCTLApEhrvUfxTMcSmqsjZdpump": {
     "created_at": "2026-11-03T05:36:13.476801+00:00",
     "name": "Trash",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5Ue6QAMLybKVHDBNxBY834wznYXXBuyFg713eyj1pump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Shade",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5n8iaqvj4WeQduJxTGQZvj8jHw1Gq6Vtj9UG4kHNpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "David Baszucki Coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HBfBtLw1S4r35PG2eUgwcwRzuzTVqS1kzY5Ds3KJpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "THOT DAUGHTER",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "okT9PADFVhh6vB9yxtpPSsuuqiNHJPfZDrCsQrxpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Bad Luck Coin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HKozw4qXy5jQwf1mtTQQm2fRZifdTssjKpABZZCipump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Jaylon",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Ccb7XL8G7uwNPJoziVUHQnxv1eHj417NTE4Mzv3bUcYh": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Lastpitch",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "tgC1K4dhXA4nhtiwX41H5Nko7awY7UMacSg5U9BZacU": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Lastpitch",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DZD3nLqyPCJYaJk7r1bwDvHKTqSc52g7DpF3yFbopump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "TRAINMAN",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "77syufAjUYymGcmkb8tQNzTypjCrznZzxeFP1fJpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Amazon.com, Inc.",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "MgJAw8k4HBX1LVF4G98KZ1fbkPnHvVp1NxRVXvspump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Unicorn Bull",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DNDVL64nDaAw6yjV4BSXkajFZLr9LyHuJtKyxoJ2pump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Give Someone a Dollar Day",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CFfHDFtuTtucnqsaqojAPcSK1XTyYzxYGR2uStp1pump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "hedge",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4TqSeJAm99cjmGPrKMw15g4Nr7mUNnxBHBEgwrMzAqT4": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "hedge",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8BpgsA3Kc4uiQGrbzW1N99Bg32bA2eCk4KEujx9npump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Super Pizza",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "856Q2H9fVnzzmXWj1qjY9HWS1MP7WZHzZxZfBLsNfYsZ": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Super Pizza",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HYmUFuM4nD9QAVnU5mRAeumnJDinf7FbmjDV8wd4pump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "TRUMP CREW",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7KEEqxDhdUGbkrgps6qKjCBqnMDbYbnCPBLYSaXxHkjN": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "The Hodling Cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "kinZk4QL2D8fGQ7A47zaHWdYNjgycPUEC8rqvgXpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Official Barron Trump",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "UYyxqEeHhqh5yvadG1dnWybXe8sDoEXD3TkwrCxpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "All in One Bot",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8DDX9Ha5k2krQWPgRwg8XvYfprpjmiVwuFCvGABmpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Project Cyber",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HHA8sV8Zqr5JRGh8JS9oAvnqUx7eNvkZxfpJr6aVpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "i need u",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DLgQ1CTQkNSWCSvoE14Kc29ySaRznahrTRs2gNQppump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Masque",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FnXNS2YE6Qw8HTKK3Q8LhRv6YEKNs5CdF2RPFfkHpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "TRUMP CREW",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "C3h8BhDy7BhJDhhcst5ToRRwftVcbCArWYydFxGoCA3Z": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Buy and shill slop",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2Abci9rSTAodNJ4j3QQzcuL7msgCKNcbf7KDdBaHpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Mei Mei the snow leopard",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5BctjdM7F97BM5GpEN9K7rwA9KNUPLJs1iFvtaaVhnTa": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "syndicate",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7usyYJ3fGuf1M84PCpoXHnwKdAL5UNbww4PmKQRopump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "PumpFun Research Factory",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Btc6cexcFypC7H63QF3tM8cdQiSgmNfw3w9ia51Npump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Only Bills",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "C1N6VZbrh5dYK7T4keNvfNSQ9JdmmXaXWpDuJKk1pump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EfPqBcDppuUKRPumfLebCFyEPDvCSe2HKvC879Hmpump": {
+    "created_at": "2026-11-03T05:45:16.915590+00:00",
+    "name": "Grokie",
     "checked": false,
     "source": "new_launch"
   }
