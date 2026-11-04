@@ -94143,7 +94143,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-11-03T23:38:44.617131+00:00",
-    "peak_price": 0.001506,
+    "peak_price": 0.001511,
     "exited": false
   },
   "DKhFmcAfB4XUAm2LnW2RY3wRtYGg1rKup3FkRQkopump": {
@@ -120940,7 +120940,7 @@
   "FKqxTRobSSDCq7gWJ3LnKZAVwB7nd964iR5Wptnxpump": {
     "created_at": "2026-11-04T10:50:54.329064+00:00",
     "name": "United States Oil Exchange",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-11-04T11:15:44.173158+00:00",
     "snapshot_buy_count": 0,
@@ -120976,7 +120976,7 @@
   "vUG3bCjNo3Zf9mPBxU8RJTgjK3ut654QKz4ntvipump": {
     "created_at": "2026-11-04T10:50:54.329064+00:00",
     "name": "Amazon.com, Inc.",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-11-04T11:15:44.173158+00:00",
     "snapshot_buy_count": 0,
@@ -122250,5 +122250,200 @@
     "name": "Nimblebee",
     "checked": false,
     "source": "new_launch"
+  },
+  "CrSyPu1vSvsSKgrTCWfeBkzwJytnboHrqm6rFeRypump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "I Identify as a 1B runner",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6aZAhsK9DRyaWuqvJrGZzRvyqg6LtCroLnCkuQ5Dpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8qg91PMKdnUEHD4rrAPWwQwhX5M5mcrsY79LMY5apump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3zdbRgyn3rxC3BGPmNNkE7bX4Use7ary9CdapMonpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "pumpcat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CrmJtccRoeSb4JVH5hautjWJmwYgKtvWxEco9ankpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "GTA6",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FPgJhJpcMaPVWKmX5qxuVXdFQwmkesiTnRqYFJrxV5M7": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "GTA6",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8zfaW3FRPcocoryJDTtU2PSs1VcNnrznAi1R8UzRpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "37JKHySMEZjiefVsuf6iJK9gKEpqG6DUfTBNGjD8JnHG": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3jhx3qeHkt3f5CMZcCwP9PNrMZGP65HmxRv6fqy9vbPD": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Tidepod",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9u3V9mW5XvFtZtSX3FZATGuW43h3cssvFJEJvLRHpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4LHZQTAefQrvdPia6Zc2oXpQVJ2q8VYB6te1MzxUpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Moon Launch",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Hx9BUFqJis3JTvKqzmqZFPdrSpKXCivrd2BA6in9pump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Fw8THb83UZV2i2edPu33vWydb2jFQmmUEKyGHzERpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CKfGjz4sBeVmsRTUX7VGX1iWUr9BJnpCqqZxRahrpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "TOADLORD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4DSz11AA95wBoPfnC9BXyhbAvzv5vnCsAA3STKPeGU2u": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "The Golden Kitten",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HkTQNHyjzth2NTsA1KHY8gJQHYA736mopnyGE3kCpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9HcKpJ37FcfQmXH8hRCQ9rC9ZUHxvYAWHWQpvoBFpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "\u0e1a\u0e38\u0e0d\u0e17\u0e34\u0e49\u0e07",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5AposXb9LENq3rePDGu1JnHhbiNmTgkT61eeFdzTbUGE": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Github",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Lz59ARkH2j321WtePJukQHCgo98u6NzuLai1xo2pump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "DACITYCOIN at 1.4m is THE TICKER",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EkpP8739LGDbFTUK6Dc1hfnQta6NffgtGRv15gTCpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "DACITYCOIN at 1.4m is THE TICKER",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DY6eoBtDe4HDPQ7uCacHe23Fuk2XNfFhTFPzmJpupump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "DACITYCOIN at 1.4m is THE TICKER",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AmgNkhgUty6NAMshxM5mkwx2Gw1GLVAw2FhGMKDPpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Subway Cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "ERhPn6QWCRDpjqgVd9XhMH8C2fL7tAhLrbkfuU1opump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8oWuu4KWfXTqiymbyZhCLPThN47tuMawdk5FeM17pump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Common Sense Labs",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EV47i4dqkD7StU1bhp78zPtPZ6xZ45mYwUDZyWmGpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3BTYg6RuSRSjryc57QDCQQZA6bC3iitfRZrmrTP7pump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "Gocha",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FDZinNQUTQemAjSpCDYTMQtP3Q6HNtgukEiCjupupump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "put the fries in the bag",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "95UFb4GixnzbZX7ZtZdTfPT5kKTF4xPZFVV4JAnXiph2": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "put the fries in the bag",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Fg38WFEpVBNsE7uWjn8hhTbqYWjvxDZPknCMobSupump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "BINANCE HACK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5Tey9paDK42WBZnig7VFB9bHag7HBjnt8fVNszFHMpqb": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "OFFICIAL BYRON DONALDS",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "JDzaCFbMdMigMxALKoTVZLo2M3PKvwy4YRs3CdLpump": {
+    "created_at": "2026-11-04T11:30:17.626002+00:00",
+    "name": "dwadawd",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3ttAXdqca9Fz6PCDQAZWeXh5YQ8wicLMFvQvEEXLPwZr": {
+    "created_at": "2026-11-04T11:09:17.626002+00:00",
+    "name": "Pepekong is king of the Crypto Jungle, g",
+    "checked": false,
+    "source": "trending",
+    "snapshot_at": "2026-11-04T11:30:17.626002+00:00",
+    "snapshot_buy_count": 0,
+    "snapshot_price": 1.559e-05
   }
 }
