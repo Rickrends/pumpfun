@@ -74963,7 +74963,7 @@
     "snapshot_price": null,
     "alerted": true,
     "alerted_at": "2026-11-04T21:03:47.376487+00:00",
-    "peak_price": 6.438e-05,
+    "peak_price": 6.742e-05,
     "exited": false
   },
   "7F8BkfhPaDGMeNkaYeVa99WAqo86LpXDKsLQXpM7pump": {
@@ -119682,7 +119682,7 @@
   "39yGKQMS2ReVr3oxdtWQFnDCTmrGLpVgYWnbtb1Spump": {
     "created_at": "2026-11-05T16:45:10.363434+00:00",
     "name": "Nasdaqistan",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-11-05T17:05:12.645038+00:00",
     "snapshot_buy_count": 0,
@@ -120660,6 +120660,306 @@
   "84v4rr4LVtBU6yJEm1raWzriHA4MmoiKhico7PAeYp6k": {
     "created_at": "2026-11-05T17:10:16.320549+00:00",
     "name": "never kill yourself",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "25ZdtdMqSGZcLfeun5Qfekwz5SZKXQiZck3g2VMfpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "LOVE YOURSELF",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9mBgv1hjmxSDGt35i5WCJxM2vYTX4v48YpgbGcrMM7Uu": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "SHAWTY CLAUS",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BX8vhc4Ldi9SEmCLKTHMKPxSkZfGoogVZvLPHFzfpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Cooking cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3ZM9hT93AspZFuC82EhAGtghF2xEL1bUa9HRioAww7yr": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Red Wave",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5JaFzve75J7UxStPCS8XcAEPXSnPNxKZHiNQfGBZpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Vice City Loading",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J9mTwGU22b88sHWRVKiCseinSeoKquY6posvBjRVTgQX": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Frenklin's best friend",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FbGNnrxKMcNiHqjodmdHU5ZGeLuCvkCMKWir7fUppump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Killer Pad",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9bRc1C4UqHJn7GPx57CxW4MyXu6KJFxTe9kBrcHcpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "USPR",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2HFaDHktj3A8jtp4U5HpmTzGKJwgq236PEqzfse94EiF": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "SOLUAV",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "981tgyVhBXMLGA53gFp7A7eohvQ3r3xpWtdu48XGvj97": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Bythos",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EEcLPfA8hGBxoZRRmTZjYSsRRx8nUCkYiBF6g6vJ2B9U": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "SOLUAV",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "668oWpQwxnor2mZfRijmJAGD6xskZUKKCbipvVecpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Runner",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9oJigvW8KvNvemCubFXGYG4CKsGoGW2FshYdcpcSzsyX": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DFta5abxtCmq6ShsfHd4bzGYUuP4Kf8UdS6URcn5pump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "talibantonelli ",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "64Hvim8ESFsA3TPT2PSj3h9AfGrcfUD8wLPephfJE2BQ": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "test",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3voHwnmfXXACrh61qe1n48uhvu1QHLtwSmfYBtadETEH": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "BAN MAYHEM",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6AuEEiFjAU6JuHfhQ4kPqG9Dc146FJmdsrjgG5Depump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "never kill yourself",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7eEEjemzt7UPRcoXQJo3ufXQqm3KmPzNnWu3CrH5pump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Cooking cat",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AafNe1A7wM1LojymJT976w8vSe96tfC5QBDQXzyApump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "DOOBIE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "479GbzNBeRFgUVZ4TGgD95AogyjD3rYeSmpaKfvPJrPy": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "one of the civilizations",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3SUDL2azm3c3xzk6NkvkrkuThGm2zmsyRNobX4uzpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "GTA6",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4Vw2zzbigCqcW3CoYoMSGK6v3RSZJh7kTXYWFvFyZDR2": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "IT",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7ikhbwwnw6TXEJgtvYBmbLNYrcyZMMozKYWEZjBq3dCs": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Michigan J. Frog",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4F4HCDhRk8yEADLr2xK3yrEtsLPMRczqp7zt2CBVpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "United States Power Reserve",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8QJseM95DMfLWXSdLcEstnmDg2t41qfmwj6DVCZTbwws": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Donald Dump",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "apwKFQM5P2QLLemczQAC5EiU4PuJes4ZtUzYqRamu1x": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Retro Pepe 2.0",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BbPpo9xNA7vCFre3td1H2LJwwc89mn7Ga3g7nmbxVueD": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Holt Wren",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4bRaYE7s7ALhu85fBP2ErBuVX1HWyPR3zgCwYUrX2DAV": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Apeonleap",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BstJBQWoC3buSPBYx8m6ocWxxZuHpw65m3vRVUvLvEpy": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "The Bubble Has Popped",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "dRe5H9ZKv7ykHCB8MwYumUSD55t9wZPZAMe8Ksgpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Doomed Yeti",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HdcppLfvA5KRuN8LsuZGNiX4P5C89HSJ5octR83npump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "SELAK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "38L8FKWJNpaR6HghPA62SDw4Npz4gT7PeExuFHPM1gCs": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Apeonleap",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "qmUkiRAWTN4UCkaaCJDHuWwxmoovtoWPLGkmt1a1FGT": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "SpawnBay",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "dC2uQusG7LypZs8doP7H1nYWpmJiApkfSbwmQnMpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "wallahi im fucked",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2iSwvWLs2aNgZmWn6VLRnXJrypkaqgwuNCeE5XHopump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Pump Up",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EjGL24obKmwiYiasMs7nHmbZZzA1yDpSgXh4gB6jDdhg": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Sedge Shrew",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3niGjox2seYXDKn8LEm2Z2Q1x7wcyJjZVXKMMrG2pump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "USPR",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2qxjVNZbUUaa1f6Hige9Y8FTFZiQ1uyZwHRq9AdziaXK": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Hyper Frog",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FDB42U3sK6fLG4LMH5QR2r2io9RuqVLmG4NyCdKvEzq6": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "1111HZ",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2iiLxC2SnDc6uJkLDaHTCfUwzt6mfnU7zdjgLnoWAUMk": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Orange Inu",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AqNVx53gia1hRpBLTNaiAne58dJ5PmSh2Hsze3TF4kAX": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "RIP Nyrol",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FemP6KtxMCaXCwiUmkQY9NnLaqZes3uknYN2pq81aCq1": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Off Switch",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CyyVW4E1EUem6BPVrbkxfrMeuwwNNBArDTT969Rgpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Shit Capital",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4egEAbA97qhxfPyq9v3NftBs8fvk1veZwUsNrvDLZCRS": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "THE $100 BID",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9NxyYSePKfzmWpvCUP8RM6kPBKEVLHfuxmeuLyoSdkGE": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2F1p2dTCE2beRsR4F3wSpp2mNzdBp6RCt791FMLskJbT": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "RIP Nyrol",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9nHBRpcBK5CHzQppTK4H36meo29kFVR8ucRJC9PVBU7D": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Fridge Attack",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "G9EUvwcPUe846Pmc7Zb6QMawjpuNc2ndpvsqs2U9pump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "WrappedNoob",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5Fm9YtKVKMWMjkQwDy8maXM55tHQhZSWUTmWmrcNpump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "\u0430BREAK",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7hPpsQ3dmjNi1PWT7Q6178o3NyWyeMy6d6nfifrypump": {
+    "created_at": "2026-11-05T17:15:16.176798+00:00",
+    "name": "Polypus",
     "checked": false,
     "source": "new_launch"
   }
