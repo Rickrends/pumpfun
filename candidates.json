@@ -89290,7 +89290,7 @@
     "snapshot_price": 0.0005095,
     "alerted": true,
     "alerted_at": "2026-11-09T02:09:03.510374+00:00",
-    "peak_price": 0.001079,
+    "peak_price": 0.001189,
     "exited": false
   },
   "C18q3ajQemC5rUEvjZzB6vUEJgBd1PhF7tDzJXquTs2N": {
@@ -97794,7 +97794,7 @@
   "3nM6e1B7g8LDM8qJ2KLFBcRUM8ppoG4sKUfqUd7Jpump": {
     "created_at": "2026-11-09T06:49:39.892486+00:00",
     "name": "Moo Deng is an aunt now, and her keeper ",
-    "checked": false,
+    "checked": true,
     "source": "trending",
     "snapshot_at": "2026-11-09T07:10:39.892486+00:00",
     "snapshot_buy_count": 0,
@@ -99294,6 +99294,90 @@
   "EhxVGxFXXaiFgSyMDKyVWX7BrQx6RUtqjr5HNRJApump": {
     "created_at": "2026-11-09T08:15:13.048683+00:00",
     "name": "Shy Screen",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2mpa3qPVdtnwbxEM98tsmefsowJs9mGVYz8xSEpZzY56": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "TrenchBrawl",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GjDqALBB7smYX7jMRjzgGnzciifkwYywbZLYgniFPJF9": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "TrenchBrawl",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "84cdkmXg2guLe9RXiLGcsxkCh2JYqSc6QRXfgniVNqUr": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "Evolut Fun",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6RgKLPKGDKDFrFp2fzZ5nbBZ1qsAyMDoCwDbJ4yspump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "The Lone Wolf",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9EeQSEdJnPFhPuoDfiMSh4M1QS5cC7qAUdrME9sEpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "Pondering Monkey",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DMDyQkUqKjz6ipeVR2AZejdo86jZyhbAQ2Kofc9GqxeK": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "fomo e/acc",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9avWKPHmpCqnvcw5rjhtQoQuNWZ5LFbUsMNh9bj9pump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "The Lone Wolf",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "GC9poheHnTmSqZXmZNkav2vv9epuTtSKy3WzUNR9pump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "Pussycoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AGajoonHyk4Sec5bNwfpVmHmexNBvwJe3DNsv1Nkpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "Gold",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8gLhNSoGmb1H6hQLoQFHhdbKBYhhvXiHkUBGmsKCpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "pippin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7oZ4irY1pHhtzhQCgccweavb8KWjmCMrEdSSMM2Dpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "MEIMEI",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "ExC2jbZHK5qFYoYUcAAFvW1gyx8rQcGbgWj4e5qjpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "MILLION RUNNER NARRATIVE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DCJkTfxpqvtRS6komynQyttsccRiFy18Q2XccXGgpump": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "MILLION RUNNER NARRATIVE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6wLynCAQKmEkAiqZTZoZDpTZGTN6TxGyLDxqkmABCGRR": {
+    "created_at": "2026-11-09T08:20:12.713607+00:00",
+    "name": "1000xGEM",
     "checked": false,
     "source": "new_launch"
   }
