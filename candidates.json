@@ -98126,7 +98126,7 @@
   "9H8iVVQycrmhMRQTFie6ZrdUgid8iye7Z78pJrn8pump": {
     "created_at": "2026-11-09T03:45:14.814264+00:00",
     "name": "?",
-    "checked": false,
+    "checked": true,
     "source": "trending",
     "snapshot_at": "2026-11-09T04:06:14.814264+00:00",
     "snapshot_buy_count": 0,
@@ -98630,7 +98630,7 @@
   "8MuTFfgeFCYa7BKMkKzRbxPLjgdEZFfHtNM2XWSfdtH2": {
     "created_at": "2026-11-09T04:35:46.367040+00:00",
     "name": "BUIDL",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-11-09T05:00:16.659818+00:00",
     "snapshot_buy_count": 0,
@@ -98675,7 +98675,7 @@
   "9SSBKcbxxtNjbsuRdz6hiZTAvkq4w2r7YECevTo3pump": {
     "created_at": "2026-11-09T04:35:46.367040+00:00",
     "name": "ASTEX",
-    "checked": false,
+    "checked": true,
     "source": "new_launch",
     "snapshot_at": "2026-11-09T05:00:16.659818+00:00",
     "snapshot_buy_count": 0,
@@ -99584,6 +99584,180 @@
   "CoVnMn3VovLrrrpfDtx4UpJ3VFfKoCMwDQWm6Magpump": {
     "created_at": "2026-11-09T05:10:13.133637+00:00",
     "name": "FloatPay",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9XoYQ1nuKwGzZsTZPEcM5vD3J9nbkJMQrU9JpJXjpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "moodeng neice at 15k yall slow",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "G6aLkSo3jmKBrgboNbapPcq9LmcKj4sxyRaxAvoLpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "moodeng neice at 15k yall slow",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "4gbakMHagYZrxTmgscNepfoaPHWcaY7rBZ2fNcr3pump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "moodeng neice at 15k yall slow",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "48PWwS91kuryUNCvX28MtHbncTrEP3pJZDCTCcGc7g2E": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Groxie",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Fw1tQUF84PaCHth4L6N35hkDxaj3mnJtXk2juZFVuCY6": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Groxie",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8muSpmVAFHhQZaFz9qU7gJKoVv8kThWEZU2yngc1pump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "three fellas",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7UEsDxxDxRfmZVGaCiedE62U7myKRJZbtthssSevB2SK": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Movie Fan Mouse",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "ZNR6mRYmULZiWJWBN4Y7YhZmKQq22kvzKakTATopump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "THE EYES TO THE MOOOON",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "D7dUsGqgsoX89v3vTRiTEAHa2jzxfw8GNw8e8Cadpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "AI agents",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "G4JyGDQWyC6gyq6iQW9SJjrbnuyfe2pDoU7bqFfpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Polsia",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8Y11GERkxJEx4vaXMDA2M2JD3w6W4ZKFcf8CifdJoG7e": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Polsia",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "B4RRqXUXw36Q81KtmPcP4R4xcA4HmkxEr8beWPLinAtp": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Polsia",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DhZkMHx6d8J5MvZSvVXuqbk62c9L2mqMJzXGh39Wpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Moo Ham",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "2TiDo3WkhywbyrqkxptqWtkszfT1EdDoaALEfKgdpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "greg bid og 15k w dex",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "9yYaHtnsMx7kFPpxMw1yDTeoC4LKyMdh19tBU4iQpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "greg bid og 15k w dex",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7JuMmKaKLVqUuAfrc3ZSsrhj3NSYjurGoj7AgMCzpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "greg bid og 15k w dex",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6yafunEE9izgGjF2112YfjX1Tx7AcDSu7HEt2rgJm2DY": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "AndvUmEFBuxvUxWsoGzoUTDhXfYX4PJEotGSkQbfLoat": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3a59YEnwGKQYuaFFcZTihLWCTy5z6mi28RKkA44Kpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og wins when they confirm",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8WcYvis4cPEfXujdHZJzh4rFVAMDuw2uQChZ6hbFpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og wins when they confirm",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7uKeWE8ts3FnMDF9EcVPm8ELN8ahw3CyqwrJ7SVypump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og wins when they confirm",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5CNwwqb55y13VEy6MVN8DNC1TES8L8gmKAJEKDwRpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og win on zoo tweet",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BKseQ8uQjbYnbUKZ2MAdyAQc6E4sveHWWYmNZ3Rxpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og win on zoo tweet",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "FKsR5MLd1A7ngzeWeppiwUKrtz2pH2pbRLugiHkypump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "og win on zoo tweet",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6pqNARPcpq996cZF3gxQ2KB6B29ABsRp7zWXXdDpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Plebeian",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EbYjsESLiVY54jgu1V3CeWT41EXMdsZrfDWxfbD2pump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Velltick",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CcoTXki1rp974vjZS3zdmXznNmQJoXAMYdsc5JWNpump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Baseten",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CLp8U424hNsisr7uzx6zee5SGAUK2vjU85VoHumQut9N": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "Chinese Spy Pussy",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BUcv8cqQNGhQiFLt9WMaEhGCBwJW1MABQXE4US6apump": {
+    "created_at": "2026-11-09T05:15:16.744867+00:00",
+    "name": "A difficult choice. ",
     "checked": false,
     "source": "new_launch"
   }
