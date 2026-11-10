@@ -95153,7 +95153,7 @@
     "snapshot_price": 0.0007899,
     "alerted": true,
     "alerted_at": "2026-11-10T00:39:39.104446+00:00",
-    "peak_price": 0.001462,
+    "peak_price": 0.001509,
     "exited": false
   },
   "4VzYkgT9ZEFQZHcm4LBBfzveiq7Q1PdwW3gYSA4ppump": {
@@ -99135,6 +99135,180 @@
   "6j4UAaUugnYDeqTuiRfGt4fYZHtrhPQnJ2xSZBaedoS1": {
     "created_at": "2026-11-10T02:40:14.760843+00:00",
     "name": "Catatonic",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3rmjDBa5bybs8AKgP99UUpwUYXj9ZEpMb5VKFGYpWgaM": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Accidental Millionaires",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "f1Gqn5ivTnQVSWvaVChwRNkbx2qNC9d9qxrxFLUL8u2": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Bluqo",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DPAPjWgZM5gWTugodgVMd84wW9Hg7HASQv7FysxWKRx8": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "The Wedding Ring",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DavN3Vfs2CETj2GWLgVrvd7q8wBd8soyCyi8U7xMpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Pussycoin",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7M6u1Zi4Mh8Xk2evD2HmC8aSyt2vgLk2imu23bNyy4kY": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "DOG IN HOOD",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "D1oAuaUszeTKKAkc6Wkj6dMV1dktm8Jni9YfwEhCzpiV": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Taper Draw",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DD4wWYqQHHY9uVJtuP9kQ8XktmeeLfWdXEX8rvxPpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "The Great Marko",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "BF5QrfPwkoy1h3a6oxVc4Gq3gCwifTNSjzc2ih3ypump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "GANJA",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6M8C66LBsKJbucxWnH17UnY1qsgxggPgsxYASwvF1irn": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "JC7MmvX4uJisYe3fLU2HZWzXSioVorGxZwX1mXhG2JYu": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "John Michael Dooley",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6JJ4xfAzcA3PR2hH54hMovvyf61T9rwgfsvqT9ukpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "RED HOT QUEEN",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8vDPH9nZuUS3bzGV7E8UQFHDPiGuYKcHnNJvqkDYpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Rockstar Games",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "J7FoPa2YABEyaBzqy1S2sHF6GbZwjtTLnRCRoVSL5wqu": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Scarf Weld",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "5Sf4U9f879f4SDKcMR26D4SaG3fY34gEDhmNdpUGpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "W Chews",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "CQxZAj39JCdYJ8GHSFhCn8gxv6fPqW2UDtYCPnQTKVuG": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "John Michael Dooley",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3PFm1eNoua4XUigqQ7Pfq9sxCnHCZAkA9DiGGp5disuU": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Stucks",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6XC2APudhaEJZnFrgH2hhd2x75oKVJbXd8iLJ3Htpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Grizzy ",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "8zwGuUDXNg9eSt6RM6ffZLisKDhtXe8ZYWCbyTfrNsom": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Bluqo",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3wd34A4wxCWVgAnb8MuCk1NVxuQ9bT4bUuUGs7dWpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "ASTEX",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7aUHAtWAHEZo5GXsw9VeQbThPAZxyUJBheeBn9y1ykQP": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Giga Cats OS",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "DvYJpH8yNk2L2RZMtcnaoNBZvXQANko7KpSdW7dLGSKR": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "memestock",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "EmgohskzP2WoracWDVFDX5tQeJ846hs577KyXmzL5nTK": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Sucks",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "SQQQAa3gUxgnqcEsdjPA4RQNQBgB97TnG2hJhk2WaGE": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "?",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "HNRYRutD9RhSZnATqsEfhUzZJ55KAtfVQ4sW99y2QWqj": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Sucks",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "3t8uzqWKqvfsxd6xmt8JnXj7bVT6C4LpJz5c533zpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "AI BUBBLE",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "7ux4vVTCkBAUdyEHB9axUyzKnbdCophQTGHTwYWMpump": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "KEY NOT FOUND",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "6nY3pWyJkvHW4FRfT9oQSihr5prY4RdsZKmgr17anSdd": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "KEY NOT FOUND",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "T7MdrfgfWw8SkakWD9pq9fuW68vJVcnM19q1P5bEbz3": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "Stinks",
+    "checked": false,
+    "source": "new_launch"
+  },
+  "Hamw8KdCKdmPRveRxuYWVdk9UptHBR6CfzA7igAFCkWH": {
+    "created_at": "2026-11-10T02:45:15.473752+00:00",
+    "name": "pairless",
     "checked": false,
     "source": "new_launch"
   }
